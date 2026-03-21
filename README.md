@@ -1,5 +1,4 @@
-# Ott_Analysis
-#  OTT Platform Analytics Dashboard
+#  OTT Platform Analysis
 
 ##  Project Overview
 
@@ -121,7 +120,7 @@ Using a combination of **Python, MySQL, and Power BI**, the project transforms r
 * Executive summary
 * Key findings
 * Data-driven recommendations
-
+![summary](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/summary.png)
 ---
 
 ## Key Insights
@@ -133,24 +132,6 @@ Using a combination of **Python, MySQL, and Power BI**, the project transforms r
 
 ---
 
-##  Dashboard Screenshots
-- Content overview
-
-![Content overview](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/content%20overview.png)
-
-- Genre Analysis
-
-![Genre Analysis](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/genre%20analysis.png)
-
--Rating Analysis
-
-![Rating Analysis](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/rating%20analysis.png)
-
--Summary
-
-![Summary](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/summaryy.png)
-
----
 
 ## Exploratory Data Analysis (Python)
 
