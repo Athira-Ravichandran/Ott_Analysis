@@ -88,6 +88,7 @@ Using a combination of **Python, MySQL, and Power BI**, the project transforms r
 * Trend of content over years
 * Content distribution (Movies vs TV Shows)
 
+![Content overview](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/content%20overview.png)
 ---
 
 ####  2. Genre Analysis
@@ -96,6 +97,7 @@ Using a combination of **Python, MySQL, and Power BI**, the project transforms r
 * Genre distribution across content types
 * Interactive slicer for deep filtering
 
+![Genre Analysis](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/genre%20analysis.png)
 ---
 ####  3. Platform Analysis
 
@@ -103,6 +105,7 @@ Using a combination of **Python, MySQL, and Power BI**, the project transforms r
 * Platform-wise average rating
 * Content distribution across platforms
 
+![Rating Analysis](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/rating%20analysis.png)
 ---
 
 ####  4. Rating & Performance Insights
@@ -130,9 +133,22 @@ Using a combination of **Python, MySQL, and Power BI**, the project transforms r
 
 ---
 
-##  Sample Dashboard Screenshots
+##  Dashboard Screenshots
+- Content overview
 
+![Content overview](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/content%20overview.png)
 
+- Genre Analysis
+
+![Genre Analysis](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/genre%20analysis.png)
+
+-Rating Analysis
+
+![Rating Analysis](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/rating%20analysis.png)
+
+-Summary
+
+![Summary](https://github.com/Athira-Ravichandran/Ott_Analysis/blob/main/images/summaryy.png)
 
 ---
 
