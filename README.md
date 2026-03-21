@@ -136,6 +136,15 @@ Using a combination of **Python, MySQL, and Power BI**, the project transforms r
 
 ---
 
+## Exploratory Data Analysis (Python)
+
+Initial analysis and visualizations were created using Python (Matplotlib, Seaborn) before building the Power BI dashboards.
+
+(See `/charts` folder for EDA visuals)
+
+
+---
+
 ## Limitations
 
 * Dataset is partially Netflix-heavy due to available sources
