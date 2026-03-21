@@ -1,0 +1,813 @@
+imdb_id,title,genre,imdb_rating,year,content_type
+tt0111161,The Shawshank Redemption,Period Drama,9.3,1994,movie
+tt0111161,The Shawshank Redemption,Prison Drama,9.3,1994,movie
+tt0111161,The Shawshank Redemption,Drama,9.3,1994,movie
+tt0111161,The Shawshank Redemption,Authentic emotion,9.3,1994,movie
+tt0111161,The Shawshank Redemption,Character development,9.3,1994,movie
+tt0111161,The Shawshank Redemption,Emotional weight,9.3,1994,movie
+tt0111161,The Shawshank Redemption,Enduring legacy,9.3,1994,movie
+tt0111161,The Shawshank Redemption,Friendship,9.3,1994,movie
+tt0111161,The Shawshank Redemption,Inspirational,9.3,1994,movie
+tt0111161,The Shawshank Redemption,Performance,9.3,1994,movie
+tt0111161,The Shawshank Redemption,Cinematography,9.3,1994,movie
+tt0111161,The Shawshank Redemption,Narration,9.3,1994,movie
+tt0068646,The Godfather,Epic,9.2,1972,movie
+tt0068646,The Godfather,Gangster,9.2,1972,movie
+tt0068646,The Godfather,Psychological Drama,9.2,1972,movie
+tt0068646,The Godfather,Tragedy,9.2,1972,movie
+tt0068646,The Godfather,Crime,9.2,1972,movie
+tt0068646,The Godfather,Drama,9.2,1972,movie
+tt0068646,The Godfather,Atmospheric,9.2,1972,movie
+tt0068646,The Godfather,Authentic emotion,9.2,1972,movie
+tt0068646,The Godfather,Character development,9.2,1972,movie
+tt0068646,The Godfather,Cinematography,9.2,1972,movie
+tt0068646,The Godfather,Direction,9.2,1972,movie
+tt0068646,The Godfather,Enduring legacy,9.2,1972,movie
+tt0068646,The Godfather,Family dynamics,9.2,1972,movie
+tt0068646,The Godfather,Iconic lines,9.2,1972,movie
+tt0068646,The Godfather,Iconic performance,9.2,1972,movie
+tt0068646,The Godfather,Narrative complexity,9.2,1972,movie
+tt0468569,The Dark Knight,Action Epic,9.1,2008,movie
+tt0468569,The Dark Knight,Epic,9.1,2008,movie
+tt0468569,The Dark Knight,Psychological Drama,9.1,2008,movie
+tt0468569,The Dark Knight,Psychological Thriller,9.1,2008,movie
+tt0468569,The Dark Knight,Superhero,9.1,2008,movie
+tt0468569,The Dark Knight,Tragedy,9.1,2008,movie
+tt0468569,The Dark Knight,Action,9.1,2008,movie
+tt0468569,The Dark Knight,Crime,9.1,2008,movie
+tt0468569,The Dark Knight,Drama,9.1,2008,movie
+tt0468569,The Dark Knight,Thriller,9.1,2008,movie
+tt0468569,The Dark Knight,Action sequences,9.1,2008,movie
+tt0468569,The Dark Knight,Cinematography,9.1,2008,movie
+tt0468569,The Dark Knight,Direction,9.1,2008,movie
+tt0468569,The Dark Knight,Standout performance,9.1,2008,movie
+tt0468569,The Dark Knight,Adaptation,9.1,2008,movie
+tt0468569,The Dark Knight,Dark tone,9.1,2008,movie
+tt0468569,The Dark Knight,Philosophical elements,9.1,2008,movie
+tt0468569,The Dark Knight,Character development,9.1,2008,movie
+tt0468569,The Dark Knight,Pacing,9.1,2008,movie
+tt0071562,The Godfather Part II,Epic,9.0,1974,movie
+tt0071562,The Godfather Part II,Gangster,9.0,1974,movie
+tt0071562,The Godfather Part II,Tragedy,9.0,1974,movie
+tt0071562,The Godfather Part II,Crime,9.0,1974,movie
+tt0071562,The Godfather Part II,Drama,9.0,1974,movie
+tt0071562,The Godfather Part II,Atmospheric,9.0,1974,movie
+tt0071562,The Godfather Part II,Cinematography,9.0,1974,movie
+tt0071562,The Godfather Part II,Production design,9.0,1974,movie
+tt0071562,The Godfather Part II,Character development,9.0,1974,movie
+tt0071562,The Godfather Part II,Duality,9.0,1974,movie
+tt0071562,The Godfather Part II,Family dynamics,9.0,1974,movie
+tt0071562,The Godfather Part II,Inner conflict,9.0,1974,movie
+tt0071562,The Godfather Part II,Legacy,9.0,1974,movie
+tt0071562,The Godfather Part II,Morality,9.0,1974,movie
+tt0071562,The Godfather Part II,Narrative complexity,9.0,1974,movie
+tt0050083,12 Angry Men,Legal Drama,9.0,1957,movie
+tt0050083,12 Angry Men,Psychological Drama,9.0,1957,movie
+tt0050083,12 Angry Men,Crime,9.0,1957,movie
+tt0050083,12 Angry Men,Drama,9.0,1957,movie
+tt0050083,12 Angry Men,Authentic emotion,9.0,1957,movie
+tt0050083,12 Angry Men,Direction,9.0,1957,movie
+tt0050083,12 Angry Men,Dramatic tension,9.0,1957,movie
+tt0050083,12 Angry Men,Great ensemble,9.0,1957,movie
+tt0050083,12 Angry Men,Morality,9.0,1957,movie
+tt0050083,12 Angry Men,Social commentary,9.0,1957,movie
+tt0050083,12 Angry Men,Suspenseful,9.0,1957,movie
+tt0050083,12 Angry Men,Thought-provoking,9.0,1957,movie
+tt0050083,12 Angry Men,Writing,9.0,1957,movie
+tt0167260,The Lord of the Rings: The Return of the King,Action Epic,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Adventure Epic,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Epic,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Fantasy Epic,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Mountain Adventure,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Quest,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Sword & Sorcery,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Tragedy,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Adventure,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Drama,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Action sequences,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Atmospheric,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Authentic emotion,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Character development,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Cinematography,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Enduring legacy,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Epic,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Iconic ending,9.0,2003,movie
+tt0167260,The Lord of the Rings: The Return of the King,Adaptation,9.0,2003,movie
+tt0108052,Schindler's List,Docudrama,9.0,1993,movie
+tt0108052,Schindler's List,Epic,9.0,1993,movie
+tt0108052,Schindler's List,Historical Epic,9.0,1993,movie
+tt0108052,Schindler's List,Period Drama,9.0,1993,movie
+tt0108052,Schindler's List,Prison Drama,9.0,1993,movie
+tt0108052,Schindler's List,Psychological Drama,9.0,1993,movie
+tt0108052,Schindler's List,Tragedy,9.0,1993,movie
+tt0108052,Schindler's List,Biography,9.0,1993,movie
+tt0108052,Schindler's List,Drama,9.0,1993,movie
+tt0108052,Schindler's List,History,9.0,1993,movie
+tt0108052,Schindler's List,Atmospheric,9.0,1993,movie
+tt0108052,Schindler's List,Authentic emotion,9.0,1993,movie
+tt0108052,Schindler's List,Character development,9.0,1993,movie
+tt0108052,Schindler's List,Cinematography,9.0,1993,movie
+tt0108052,Schindler's List,Direction,9.0,1993,movie
+tt0108052,Schindler's List,Historical accuracy,9.0,1993,movie
+tt0108052,Schindler's List,Musical score,9.0,1993,movie
+tt0108052,Schindler's List,Performance,9.0,1993,movie
+tt0108052,Schindler's List,Symbolism,9.0,1993,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Action Epic,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Adventure Epic,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Dark Fantasy,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Epic,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Fantasy Epic,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Quest,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Sword & Sorcery,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Adventure,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Drama,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Fantasy,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Adaptation,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Ambitious,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Authentic emotion,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Character development,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Cinematography,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Epic,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Friendship,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Production design,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Special effects,8.9,2001,movie
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,Worldbuilding,8.9,2001,movie
+tt0110912,Pulp Fiction,Dark Comedy,8.8,1994,movie
+tt0110912,Pulp Fiction,Drug Crime,8.8,1994,movie
+tt0110912,Pulp Fiction,Gangster,8.8,1994,movie
+tt0110912,Pulp Fiction,Crime,8.8,1994,movie
+tt0110912,Pulp Fiction,Drama,8.8,1994,movie
+tt0110912,Pulp Fiction,Atmospheric,8.8,1994,movie
+tt0110912,Pulp Fiction,Authentic emotion,8.8,1994,movie
+tt0110912,Pulp Fiction,Cinematography,8.8,1994,movie
+tt0110912,Pulp Fiction,Comedic brilliance,8.8,1994,movie
+tt0110912,Pulp Fiction,Dark humor,8.8,1994,movie
+tt0110912,Pulp Fiction,Genre blending,8.8,1994,movie
+tt0110912,Pulp Fiction,Iconic soundtrack,8.8,1994,movie
+tt0110912,Pulp Fiction,Non-linear structure,8.8,1994,movie
+tt0060196,"The Good, the Bad and the Ugly",Action Epic,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Adventure Epic,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Dark Comedy,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Desert Adventure,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Epic,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Period Drama,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Quest,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Spaghetti Western,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Western Epic,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Adventure,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Action sequences,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Atmospheric,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Cinematography,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Direction,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Dramatic tension,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Great ensemble,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Iconic scene,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Iconic score,8.8,1966,movie
+tt0060196,"The Good, the Bad and the Ugly",Thin story,8.8,1966,movie
+tt0167261,The Lord of the Rings: The Two Towers,Action Epic,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Adventure Epic,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Dark Fantasy,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Epic,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Fantasy Epic,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Quest,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Sword & Sorcery,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Adventure,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Drama,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Fantasy,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Action sequences,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Character development,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Cinematography,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Creature design,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Dramatic tension,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Epic,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Friendship,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Worldbuilding,8.8,2002,movie
+tt0167261,The Lord of the Rings: The Two Towers,Adaptation,8.8,2002,movie
+tt0109830,Forrest Gump,Epic,8.8,1994,movie
+tt0109830,Forrest Gump,Period Drama,8.8,1994,movie
+tt0109830,Forrest Gump,Romantic Epic,8.8,1994,movie
+tt0109830,Forrest Gump,Tragic Romance,8.8,1994,movie
+tt0109830,Forrest Gump,Drama,8.8,1994,movie
+tt0109830,Forrest Gump,Romance,8.8,1994,movie
+tt0109830,Forrest Gump,Comedic brilliance,8.8,1994,movie
+tt0109830,Forrest Gump,Friendship,8.8,1994,movie
+tt0109830,Forrest Gump,Heartfelt,8.8,1994,movie
+tt0109830,Forrest Gump,Inspirational,8.8,1994,movie
+tt0109830,Forrest Gump,Nostalgic,8.8,1994,movie
+tt0109830,Forrest Gump,Personal growth,8.8,1994,movie
+tt0109830,Forrest Gump,Adaptation,8.8,1994,movie
+tt0137523,Fight Club,Dark Comedy,8.8,1999,movie
+tt0137523,Fight Club,Psychological Drama,8.8,1999,movie
+tt0137523,Fight Club,Psychological Thriller,8.8,1999,movie
+tt0137523,Fight Club,Workplace Drama,8.8,1999,movie
+tt0137523,Fight Club,Crime,8.8,1999,movie
+tt0137523,Fight Club,Drama,8.8,1999,movie
+tt0137523,Fight Club,Thriller,8.8,1999,movie
+tt0137523,Fight Club,Allegorical elements,8.8,1999,movie
+tt0137523,Fight Club,Cinematography,8.8,1999,movie
+tt0137523,Fight Club,Direction,8.8,1999,movie
+tt0137523,Fight Club,Performance,8.8,1999,movie
+tt0137523,Fight Club,Psychological depth,8.8,1999,movie
+tt0137523,Fight Club,Social commentary,8.8,1999,movie
+tt0137523,Fight Club,Sound design,8.8,1999,movie
+tt0137523,Fight Club,Thought-provoking,8.8,1999,movie
+tt0137523,Fight Club,Narrative complexity,8.8,1999,movie
+tt1375666,Inception,Action Epic,8.8,2010,movie
+tt1375666,Inception,Adventure Epic,8.8,2010,movie
+tt1375666,Inception,Epic,8.8,2010,movie
+tt1375666,Inception,Psychological Thriller,8.8,2010,movie
+tt1375666,Inception,Sci-Fi Epic,8.8,2010,movie
+tt1375666,Inception,Action,8.8,2010,movie
+tt1375666,Inception,Adventure,8.8,2010,movie
+tt1375666,Inception,Sci-Fi,8.8,2010,movie
+tt1375666,Inception,Thriller,8.8,2010,movie
+tt1375666,Inception,Dreamlike,8.8,2010,movie
+tt1375666,Inception,Iconic ending,8.8,2010,movie
+tt1375666,Inception,Special effects,8.8,2010,movie
+tt1375666,Inception,Thought-provoking,8.8,2010,movie
+tt1375666,Inception,Ambitious,8.8,2010,movie
+tt1375666,Inception,Character development,8.8,2010,movie
+tt1375666,Inception,Narrative complexity,8.8,2010,movie
+tt1375666,Inception,Confusing,8.8,2010,movie
+tt1375666,Inception,Pacing,8.8,2010,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Action Epic,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Adventure Epic,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Dark Fantasy,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Dystopian Sci-Fi,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Epic,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Fantasy Epic,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Quest,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Sci-Fi Epic,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Space Sci-Fi,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Sword & Sorcery,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Action sequences,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Character development,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Cinematography,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Dark tone,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Iconic lines,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Iconic scene,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Iconic score,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Special effects,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Suspenseful,8.7,1980,movie
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Worldbuilding,8.7,1980,movie
+tt0133093,The Matrix,Action Epic,8.7,1999,movie
+tt0133093,The Matrix,Artificial Intelligence,8.7,1999,movie
+tt0133093,The Matrix,Cyberpunk,8.7,1999,movie
+tt0133093,The Matrix,Dystopian Sci-Fi,8.7,1999,movie
+tt0133093,The Matrix,Gun Fu,8.7,1999,movie
+tt0133093,The Matrix,Martial Arts,8.7,1999,movie
+tt0133093,The Matrix,Sci-Fi Epic,8.7,1999,movie
+tt0133093,The Matrix,Action,8.7,1999,movie
+tt0133093,The Matrix,Sci-Fi,8.7,1999,movie
+tt0133093,The Matrix,Action sequences,8.7,1999,movie
+tt0133093,The Matrix,Cinematography,8.7,1999,movie
+tt0133093,The Matrix,Philosophical elements,8.7,1999,movie
+tt0133093,The Matrix,Special effects,8.7,1999,movie
+tt0133093,The Matrix,Thought-provoking,8.7,1999,movie
+tt0133093,The Matrix,Character development,8.7,1999,movie
+tt0133093,The Matrix,Dystopian elements,8.7,1999,movie
+tt0133093,The Matrix,Religious themes,8.7,1999,movie
+tt0099685,GoodFellas,Docudrama,8.7,1990,movie
+tt0099685,GoodFellas,Gangster,8.7,1990,movie
+tt0099685,GoodFellas,True Crime,8.7,1990,movie
+tt0099685,GoodFellas,Biography,8.7,1990,movie
+tt0099685,GoodFellas,Crime,8.7,1990,movie
+tt0099685,GoodFellas,Drama,8.7,1990,movie
+tt0099685,GoodFellas,Character development,8.7,1990,movie
+tt0099685,GoodFellas,Chemistry,8.7,1990,movie
+tt0099685,GoodFellas,Cinematography,8.7,1990,movie
+tt0099685,GoodFellas,Dark humor,8.7,1990,movie
+tt0099685,GoodFellas,Direction,8.7,1990,movie
+tt0099685,GoodFellas,Enduring legacy,8.7,1990,movie
+tt0099685,GoodFellas,Iconic performance,8.7,1990,movie
+tt0099685,GoodFellas,Rewatchable,8.7,1990,movie
+tt0099685,GoodFellas,Soundtrack,8.7,1990,movie
+tt0099685,GoodFellas,Authentic emotion,8.7,1990,movie
+tt0816692,Interstellar,Adventure Epic,8.7,2014,movie
+tt0816692,Interstellar,Epic,8.7,2014,movie
+tt0816692,Interstellar,Psychological Drama,8.7,2014,movie
+tt0816692,Interstellar,Quest,8.7,2014,movie
+tt0816692,Interstellar,Sci-Fi Epic,8.7,2014,movie
+tt0816692,Interstellar,Space Sci-Fi,8.7,2014,movie
+tt0816692,Interstellar,Time Travel,8.7,2014,movie
+tt0816692,Interstellar,Adventure,8.7,2014,movie
+tt0816692,Interstellar,Drama,8.7,2014,movie
+tt0816692,Interstellar,Sci-Fi,8.7,2014,movie
+tt0816692,Interstellar,Ambitious,8.7,2014,movie
+tt0816692,Interstellar,Cinematography,8.7,2014,movie
+tt0816692,Interstellar,Cosmic wonder,8.7,2014,movie
+tt0816692,Interstellar,Emotional stakes,8.7,2014,movie
+tt0816692,Interstellar,Family dynamics,8.7,2014,movie
+tt0816692,Interstellar,Scientific depth,8.7,2014,movie
+tt0816692,Interstellar,Soundtrack,8.7,2014,movie
+tt0816692,Interstellar,Thought-provoking,8.7,2014,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Dark Comedy,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Medical Drama,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Psychological Drama,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Drama,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Freedom,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Iconic performance,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Performance,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Adaptation,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Allegorical elements,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Dramatic tension,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Human experience,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Mental health,8.6,1975,movie
+tt0073486,One Flew Over the Cuckoo's Nest,Social commentary,8.6,1975,movie
+tt0114369,Seven,Cop Drama,8.6,1995,movie
+tt0114369,Seven,Hard-boiled Detective,8.6,1995,movie
+tt0114369,Seven,Police Procedural,8.6,1995,movie
+tt0114369,Seven,Psychological Drama,8.6,1995,movie
+tt0114369,Seven,Psychological Thriller,8.6,1995,movie
+tt0114369,Seven,Serial Killer,8.6,1995,movie
+tt0114369,Seven,Tragedy,8.6,1995,movie
+tt0114369,Seven,Crime,8.6,1995,movie
+tt0114369,Seven,Drama,8.6,1995,movie
+tt0114369,Seven,Mystery,8.6,1995,movie
+tt0114369,Seven,Atmospheric,8.6,1995,movie
+tt0114369,Seven,Cinematography,8.6,1995,movie
+tt0114369,Seven,Performance,8.6,1995,movie
+tt0114369,Seven,Suspenseful,8.6,1995,movie
+tt0114369,Seven,Thrilling,8.6,1995,movie
+tt0114369,Seven,Philosophical elements,8.6,1995,movie
+tt0114369,Seven,Religious themes,8.6,1995,movie
+tt0114369,Seven,Social commentary,8.6,1995,movie
+tt0114369,Seven,Dark tone,8.6,1995,movie
+tt0038650,It's a Wonderful Life,Feel-Good Romance,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Holiday Family,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Holiday Romance,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Psychological Drama,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Supernatural Fantasy,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Drama,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Family,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Fantasy,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Holiday,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Romance,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Family dynamics,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Friendship,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Heartfelt,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Inspirational,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Meaning of life,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Nostalgic,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Religious themes,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Traditional values,8.6,1946,movie
+tt0038650,It's a Wonderful Life,Social commentary,8.6,1946,movie
+tt0102926,The Silence of the Lambs,Police Procedural,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Psychological Drama,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Psychological Horror,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Psychological Thriller,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Serial Killer,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Crime,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Drama,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Horror,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Thriller,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Atmospheric,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Chemistry,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Direction,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Iconic lines,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Iconic performance,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Performance,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Psychological depth,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Suspenseful,8.6,1991,movie
+tt0102926,The Silence of the Lambs,Thrilling,8.6,1991,movie
+tt0047478,Seven Samurai,Japanese,8.6,1954,movie
+tt0047478,Seven Samurai,Action Epic,8.6,1954,movie
+tt0047478,Seven Samurai,Epic,8.6,1954,movie
+tt0047478,Seven Samurai,Period Drama,8.6,1954,movie
+tt0047478,Seven Samurai,Samurai,8.6,1954,movie
+tt0047478,Seven Samurai,Action,8.6,1954,movie
+tt0047478,Seven Samurai,Drama,8.6,1954,movie
+tt0047478,Seven Samurai,Artistic vision,8.6,1954,movie
+tt0047478,Seven Samurai,Authentic emotion,8.6,1954,movie
+tt0047478,Seven Samurai,Character development,8.6,1954,movie
+tt0047478,Seven Samurai,Cinematography,8.6,1954,movie
+tt0047478,Seven Samurai,Enduring legacy,8.6,1954,movie
+tt0047478,Seven Samurai,Historical accuracy,8.6,1954,movie
+tt0047478,Seven Samurai,Musical score,8.6,1954,movie
+tt0047478,Seven Samurai,Social commentary,8.6,1954,movie
+tt0047478,Seven Samurai,Technical achievement,8.6,1954,movie
+tt0120815,Saving Private Ryan,Action Epic,8.6,1998,movie
+tt0120815,Saving Private Ryan,Epic,8.6,1998,movie
+tt0120815,Saving Private Ryan,Period Drama,8.6,1998,movie
+tt0120815,Saving Private Ryan,Psychological Drama,8.6,1998,movie
+tt0120815,Saving Private Ryan,Tragedy,8.6,1998,movie
+tt0120815,Saving Private Ryan,War Epic,8.6,1998,movie
+tt0120815,Saving Private Ryan,Drama,8.6,1998,movie
+tt0120815,Saving Private Ryan,War,8.6,1998,movie
+tt0120815,Saving Private Ryan,Action sequences,8.6,1998,movie
+tt0120815,Saving Private Ryan,Cinematography,8.6,1998,movie
+tt0120815,Saving Private Ryan,Direction,8.6,1998,movie
+tt0120815,Saving Private Ryan,Emotional weight,8.6,1998,movie
+tt0120815,Saving Private Ryan,Iconic opening,8.6,1998,movie
+tt0120815,Saving Private Ryan,Performance,8.6,1998,movie
+tt0120815,Saving Private Ryan,Realism,8.6,1998,movie
+tt0120815,Saving Private Ryan,Sound design,8.6,1998,movie
+tt0120815,Saving Private Ryan,Technical achievement,8.6,1998,movie
+tt0120815,Saving Private Ryan,Historical accuracy,8.6,1998,movie
+tt0120689,The Green Mile,Period Drama,8.6,1999,movie
+tt0120689,The Green Mile,Prison Drama,8.6,1999,movie
+tt0120689,The Green Mile,Supernatural Fantasy,8.6,1999,movie
+tt0120689,The Green Mile,Tragedy,8.6,1999,movie
+tt0120689,The Green Mile,Crime,8.6,1999,movie
+tt0120689,The Green Mile,Drama,8.6,1999,movie
+tt0120689,The Green Mile,Fantasy,8.6,1999,movie
+tt0120689,The Green Mile,Mystery,8.6,1999,movie
+tt0120689,The Green Mile,Dramatic tension,8.6,1999,movie
+tt0120689,The Green Mile,Emotional weight,8.6,1999,movie
+tt0120689,The Green Mile,Faith,8.6,1999,movie
+tt0120689,The Green Mile,Friendship,8.6,1999,movie
+tt0120689,The Green Mile,Thought-provoking,8.6,1999,movie
+tt0120689,The Green Mile,Adaptation,8.6,1999,movie
+tt0120689,The Green Mile,Social commentary,8.6,1999,movie
+tt0120689,The Green Mile,Supernatural themes,8.6,1999,movie
+tt0903747,Breaking Bad,Dark Comedy,9.5,2008,tv_show
+tt0903747,Breaking Bad,Drug Crime,9.5,2008,tv_show
+tt0903747,Breaking Bad,Psychological Drama,9.5,2008,tv_show
+tt0903747,Breaking Bad,Psychological Thriller,9.5,2008,tv_show
+tt0903747,Breaking Bad,Tragedy,9.5,2008,tv_show
+tt0903747,Breaking Bad,Crime,9.5,2008,tv_show
+tt0903747,Breaking Bad,Drama,9.5,2008,tv_show
+tt0903747,Breaking Bad,Thriller,9.5,2008,tv_show
+tt0903747,Breaking Bad,Character development,9.5,2008,tv_show
+tt0903747,Breaking Bad,Cinematography,9.5,2008,tv_show
+tt0903747,Breaking Bad,Dark humor,9.5,2008,tv_show
+tt0903747,Breaking Bad,Dramatic tension,9.5,2008,tv_show
+tt0903747,Breaking Bad,Social commentary,9.5,2008,tv_show
+tt0903747,Breaking Bad,Suspenseful,9.5,2008,tv_show
+tt0903747,Breaking Bad,Writing,9.5,2008,tv_show
+tt0903747,Breaking Bad,Family dynamics,9.5,2008,tv_show
+tt0903747,Breaking Bad,Morality,9.5,2008,tv_show
+tt0903747,Breaking Bad,Pacing,9.5,2008,tv_show
+tt5491994,Planet Earth II,Docuseries,9.4,2016,tv_show
+tt5491994,Planet Earth II,Nature Documentary,9.4,2016,tv_show
+tt5491994,Planet Earth II,Documentary,9.4,2016,tv_show
+tt5491994,Planet Earth II,Family,9.4,2016,tv_show
+tt5491994,Planet Earth II,Cinematography,9.4,2016,tv_show
+tt5491994,Planet Earth II,Dramatic tension,9.4,2016,tv_show
+tt5491994,Planet Earth II,Educational,9.4,2016,tv_show
+tt5491994,Planet Earth II,Environmentalism,9.4,2016,tv_show
+tt5491994,Planet Earth II,Inspirational,9.4,2016,tv_show
+tt5491994,Planet Earth II,Technical achievement,9.4,2016,tv_show
+tt5491994,Planet Earth II,Visual spectacle,9.4,2016,tv_show
+tt5491994,Planet Earth II,Narration,9.4,2016,tv_show
+tt5491994,Planet Earth II,Social commentary,9.4,2016,tv_show
+tt5491994,Planet Earth II,Sound design,9.4,2016,tv_show
+tt0795176,Planet Earth,Docuseries,9.4,2006,tv_show
+tt0795176,Planet Earth,Nature Documentary,9.4,2006,tv_show
+tt0795176,Planet Earth,Documentary,9.4,2006,tv_show
+tt0795176,Planet Earth,Family,9.4,2006,tv_show
+tt0795176,Planet Earth,Ambitious,9.4,2006,tv_show
+tt0795176,Planet Earth,Cinematography,9.4,2006,tv_show
+tt0795176,Planet Earth,Educational,9.4,2006,tv_show
+tt0795176,Planet Earth,Environmentalism,9.4,2006,tv_show
+tt0795176,Planet Earth,Narration,9.4,2006,tv_show
+tt0795176,Planet Earth,Realism,9.4,2006,tv_show
+tt0795176,Planet Earth,Technical achievement,9.4,2006,tv_show
+tt0795176,Planet Earth,Visual spectacle,9.4,2006,tv_show
+tt0795176,Planet Earth,Sound design,9.4,2006,tv_show
+tt0795176,Planet Earth,Survival,9.4,2006,tv_show
+tt0185906,Band of Brothers,Historical Epic,9.4,2001,tv_show
+tt0185906,Band of Brothers,Psychological Drama,9.4,2001,tv_show
+tt0185906,Band of Brothers,Tragedy,9.4,2001,tv_show
+tt0185906,Band of Brothers,War Epic,9.4,2001,tv_show
+tt0185906,Band of Brothers,Action,9.4,2001,tv_show
+tt0185906,Band of Brothers,Drama,9.4,2001,tv_show
+tt0185906,Band of Brothers,History,9.4,2001,tv_show
+tt0185906,Band of Brothers,War,9.4,2001,tv_show
+tt0185906,Band of Brothers,Action sequences,9.4,2001,tv_show
+tt0185906,Band of Brothers,Authentic emotion,9.4,2001,tv_show
+tt0185906,Band of Brothers,Character development,9.4,2001,tv_show
+tt0185906,Band of Brothers,Cinematography,9.4,2001,tv_show
+tt0185906,Band of Brothers,Courage,9.4,2001,tv_show
+tt0185906,Band of Brothers,Emotional weight,9.4,2001,tv_show
+tt0185906,Band of Brothers,Friendship,9.4,2001,tv_show
+tt0185906,Band of Brothers,Historical accuracy,9.4,2001,tv_show
+tt0185906,Band of Brothers,Inspirational,9.4,2001,tv_show
+tt0185906,Band of Brothers,Realism,9.4,2001,tv_show
+tt7366338,Chernobyl,Disaster,9.3,2019,tv_show
+tt7366338,Chernobyl,Docudrama,9.3,2019,tv_show
+tt7366338,Chernobyl,Epic,9.3,2019,tv_show
+tt7366338,Chernobyl,Historical Epic,9.3,2019,tv_show
+tt7366338,Chernobyl,Period Drama,9.3,2019,tv_show
+tt7366338,Chernobyl,Psychological Drama,9.3,2019,tv_show
+tt7366338,Chernobyl,Drama,9.3,2019,tv_show
+tt7366338,Chernobyl,History,9.3,2019,tv_show
+tt7366338,Chernobyl,Thriller,9.3,2019,tv_show
+tt7366338,Chernobyl,Authentic emotion,9.3,2019,tv_show
+tt7366338,Chernobyl,Character development,9.3,2019,tv_show
+tt7366338,Chernobyl,Cinematography,9.3,2019,tv_show
+tt7366338,Chernobyl,Direction,9.3,2019,tv_show
+tt7366338,Chernobyl,Dramatic tension,9.3,2019,tv_show
+tt7366338,Chernobyl,Production design,9.3,2019,tv_show
+tt7366338,Chernobyl,Scientific depth,9.3,2019,tv_show
+tt7366338,Chernobyl,Historical accuracy,9.3,2019,tv_show
+tt7366338,Chernobyl,Social commentary,9.3,2019,tv_show
+tt0306414,The Wire,Cop Drama,9.3,2002,tv_show
+tt0306414,The Wire,Drug Crime,9.3,2002,tv_show
+tt0306414,The Wire,Epic,9.3,2002,tv_show
+tt0306414,The Wire,Police Procedural,9.3,2002,tv_show
+tt0306414,The Wire,Psychological Drama,9.3,2002,tv_show
+tt0306414,The Wire,Psychological Thriller,9.3,2002,tv_show
+tt0306414,The Wire,Crime,9.3,2002,tv_show
+tt0306414,The Wire,Drama,9.3,2002,tv_show
+tt0306414,The Wire,Thriller,9.3,2002,tv_show
+tt0306414,The Wire,Authentic emotion,9.3,2002,tv_show
+tt0306414,The Wire,Gritty,9.3,2002,tv_show
+tt0306414,The Wire,Narrative complexity,9.3,2002,tv_show
+tt0306414,The Wire,Performance,9.3,2002,tv_show
+tt0306414,The Wire,Realism,9.3,2002,tv_show
+tt0306414,The Wire,Social commentary,9.3,2002,tv_show
+tt0306414,The Wire,Thought-provoking,9.3,2002,tv_show
+tt0306414,The Wire,Writing,9.3,2002,tv_show
+tt0417299,Avatar: The Last Airbender,Adventure Epic,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Epic,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Fantasy Epic,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Globetrotting Adventure,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Hand-Drawn Animation,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Martial Arts,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Quest,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Supernatural Fantasy,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Teen Adventure,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Teen Fantasy,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Animation style,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Character development,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Emotional weight,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Friendship,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Generational appeal,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Philosophical elements,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Worldbuilding,9.3,2005,tv_show
+tt0417299,Avatar: The Last Airbender,Dramatic depth,9.3,2005,tv_show
+tt0141842,The Sopranos,Epic,9.2,1999,tv_show
+tt0141842,The Sopranos,Gangster,9.2,1999,tv_show
+tt0141842,The Sopranos,Psychological Drama,9.2,1999,tv_show
+tt0141842,The Sopranos,Crime,9.2,1999,tv_show
+tt0141842,The Sopranos,Drama,9.2,1999,tv_show
+tt0141842,The Sopranos,Authentic emotion,9.2,1999,tv_show
+tt0141842,The Sopranos,Character development,9.2,1999,tv_show
+tt0141842,The Sopranos,Comedic brilliance,9.2,1999,tv_show
+tt0141842,The Sopranos,Dark humor,9.2,1999,tv_show
+tt0141842,The Sopranos,Family dynamics,9.2,1999,tv_show
+tt0141842,The Sopranos,Narrative complexity,9.2,1999,tv_show
+tt0141842,The Sopranos,Realism,9.2,1999,tv_show
+tt0141842,The Sopranos,Social commentary,9.2,1999,tv_show
+tt0141842,The Sopranos,Writing,9.2,1999,tv_show
+tt6769208,Blue Planet II,Docuseries,9.3,2017,tv_show
+tt6769208,Blue Planet II,Nature Documentary,9.3,2017,tv_show
+tt6769208,Blue Planet II,Documentary,9.3,2017,tv_show
+tt6769208,Blue Planet II,Family,9.3,2017,tv_show
+tt6769208,Blue Planet II,Cinematography,9.3,2017,tv_show
+tt6769208,Blue Planet II,Educational,9.3,2017,tv_show
+tt6769208,Blue Planet II,Environmentalism,9.3,2017,tv_show
+tt6769208,Blue Planet II,Inspirational,9.3,2017,tv_show
+tt6769208,Blue Planet II,Narration,9.3,2017,tv_show
+tt6769208,Blue Planet II,Realism,9.3,2017,tv_show
+tt6769208,Blue Planet II,Social commentary,9.3,2017,tv_show
+tt6769208,Blue Planet II,Technical achievement,9.3,2017,tv_show
+tt6769208,Blue Planet II,Visual spectacle,9.3,2017,tv_show
+tt6769208,Blue Planet II,Sound design,9.3,2017,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Docuseries,9.2,2014,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Science & Technology Documentary,9.2,2014,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Documentary,9.2,2014,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Family,9.2,2014,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Cosmic wonder,9.2,2014,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Educational,9.2,2014,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Generational appeal,9.2,2014,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Inspirational,9.2,2014,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Scientific depth,9.2,2014,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Thought-provoking,9.2,2014,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Narration,9.2,2014,tv_show
+tt2395695,Cosmos: A Spacetime Odyssey,Social commentary,9.2,2014,tv_show
+tt0081846,Cosmos,Docuseries,9.3,1980,tv_show
+tt0081846,Cosmos,Science & Technology Documentary,9.3,1980,tv_show
+tt0081846,Cosmos,Documentary,9.3,1980,tv_show
+tt0081846,Cosmos,Ambitious,9.3,1980,tv_show
+tt0081846,Cosmos,Cosmic wonder,9.3,1980,tv_show
+tt0081846,Cosmos,Educational,9.3,1980,tv_show
+tt0081846,Cosmos,Inspirational,9.3,1980,tv_show
+tt0081846,Cosmos,Narration,9.3,1980,tv_show
+tt0081846,Cosmos,Philosophical elements,9.3,1980,tv_show
+tt0081846,Cosmos,Scientific depth,9.3,1980,tv_show
+tt0081846,Cosmos,Soundtrack,9.3,1980,tv_show
+tt9253866,Our Planet,Docuseries,9.2,2019,tv_show
+tt9253866,Our Planet,Nature Documentary,9.2,2019,tv_show
+tt9253866,Our Planet,Documentary,9.2,2019,tv_show
+tt9253866,Our Planet,Family,9.2,2019,tv_show
+tt9253866,Our Planet,Cinematography,9.2,2019,tv_show
+tt9253866,Our Planet,Educational,9.2,2019,tv_show
+tt9253866,Our Planet,Environmentalism,9.2,2019,tv_show
+tt9253866,Our Planet,Inspirational,9.2,2019,tv_show
+tt9253866,Our Planet,Technical achievement,9.2,2019,tv_show
+tt9253866,Our Planet,Thought-provoking,9.2,2019,tv_show
+tt9253866,Our Planet,Visual spectacle,9.2,2019,tv_show
+tt9253866,Our Planet,Narration,9.2,2019,tv_show
+tt9253866,Our Planet,Realism,9.2,2019,tv_show
+tt9253866,Our Planet,Social commentary,9.2,2019,tv_show
+tt0944947,Game of Thrones,Action Epic,9.2,2011,tv_show
+tt0944947,Game of Thrones,Adventure Epic,9.2,2011,tv_show
+tt0944947,Game of Thrones,Dark Fantasy,9.2,2011,tv_show
+tt0944947,Game of Thrones,Epic,9.2,2011,tv_show
+tt0944947,Game of Thrones,Fantasy Epic,9.2,2011,tv_show
+tt0944947,Game of Thrones,Psychological Drama,9.2,2011,tv_show
+tt0944947,Game of Thrones,Sword & Sorcery,9.2,2011,tv_show
+tt0944947,Game of Thrones,Tragedy,9.2,2011,tv_show
+tt0944947,Game of Thrones,Action,9.2,2011,tv_show
+tt0944947,Game of Thrones,Adventure,9.2,2011,tv_show
+tt0944947,Game of Thrones,Action sequences,9.2,2011,tv_show
+tt0944947,Game of Thrones,Adaptation,9.2,2011,tv_show
+tt0944947,Game of Thrones,Character development,9.2,2011,tv_show
+tt0944947,Game of Thrones,Cinematography,9.2,2011,tv_show
+tt0944947,Game of Thrones,Dramatic tension,9.2,2011,tv_show
+tt0944947,Game of Thrones,Narrative complexity,9.2,2011,tv_show
+tt0944947,Game of Thrones,Production design,9.2,2011,tv_show
+tt0944947,Game of Thrones,Soundtrack,9.2,2011,tv_show
+tt0944947,Game of Thrones,Worldbuilding,9.2,2011,tv_show
+tt7678620,Bluey,Animal Adventure,9.3,2018,tv_show
+tt7678620,Bluey,Coming-of-Age,9.3,2018,tv_show
+tt7678620,Bluey,Hand-Drawn Animation,9.3,2018,tv_show
+tt7678620,Bluey,Animation,9.3,2018,tv_show
+tt7678620,Bluey,Family,9.3,2018,tv_show
+tt7678620,Bluey,Authentic emotion,9.3,2018,tv_show
+tt7678620,Bluey,Comedic brilliance,9.3,2018,tv_show
+tt7678620,Bluey,Comforting,9.3,2018,tv_show
+tt7678620,Bluey,Educational,9.3,2018,tv_show
+tt7678620,Bluey,Family dynamics,9.3,2018,tv_show
+tt7678620,Bluey,Heartfelt,9.3,2018,tv_show
+tt7678620,Bluey,Inspirational,9.3,2018,tv_show
+tt7678620,Bluey,Relatable,9.3,2018,tv_show
+tt0071075,The World at War,Docuseries,9.2,1973,tv_show
+tt0071075,The World at War,History Documentary,9.2,1973,tv_show
+tt0071075,The World at War,Military Documentary,9.2,1973,tv_show
+tt0071075,The World at War,Documentary,9.2,1973,tv_show
+tt0071075,The World at War,History,9.2,1973,tv_show
+tt0071075,The World at War,War,9.2,1973,tv_show
+tt0071075,The World at War,Authentic emotion,9.2,1973,tv_show
+tt0071075,The World at War,Educational,9.2,1973,tv_show
+tt0071075,The World at War,Emotional weight,9.2,1973,tv_show
+tt0071075,The World at War,Historical accuracy,9.2,1973,tv_show
+tt0071075,The World at War,Human experience,9.2,1973,tv_show
+tt0071075,The World at War,Narration,9.2,1973,tv_show
+tt0071075,The World at War,Realism,9.2,1973,tv_show
+tt0071075,The World at War,Thought-provoking,9.2,1973,tv_show
+tt0071075,The World at War,Social commentary,9.2,1973,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Japanese,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Adult Animation,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Anime,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Epic,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Fantasy Epic,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Hand-Drawn Animation,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Political Drama,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Psychological Drama,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Shōnen,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Steampunk,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Action sequences,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Adaptation,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Animation style,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Character development,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Emotional stakes,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Family dynamics,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Philosophical elements,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Soundtrack,9.1,2009,tv_show
+tt1355642,Fullmetal Alchemist: Brotherhood,Worldbuilding,9.1,2009,tv_show
+tt2560140,Attack on Titan,Japanese,9.1,2013,tv_show
+tt2560140,Attack on Titan,Action Epic,9.1,2013,tv_show
+tt2560140,Attack on Titan,Adult Animation,9.1,2013,tv_show
+tt2560140,Attack on Titan,Anime,9.1,2013,tv_show
+tt2560140,Attack on Titan,Body Horror,9.1,2013,tv_show
+tt2560140,Attack on Titan,Dark Fantasy,9.1,2013,tv_show
+tt2560140,Attack on Titan,Epic,9.1,2013,tv_show
+tt2560140,Attack on Titan,Fantasy Epic,9.1,2013,tv_show
+tt2560140,Attack on Titan,Folk Horror,9.1,2013,tv_show
+tt2560140,Attack on Titan,Hand-Drawn Animation,9.1,2013,tv_show
+tt2560140,Attack on Titan,Action sequences,9.1,2013,tv_show
+tt2560140,Attack on Titan,Animation style,9.1,2013,tv_show
+tt2560140,Attack on Titan,Character development,9.1,2013,tv_show
+tt2560140,Attack on Titan,Dystopian elements,9.1,2013,tv_show
+tt2560140,Attack on Titan,Emotional stakes,9.1,2013,tv_show
+tt2560140,Attack on Titan,Narrative complexity,9.1,2013,tv_show
+tt2560140,Attack on Titan,Philosophical elements,9.1,2013,tv_show
+tt2560140,Attack on Titan,Soundtrack,9.1,2013,tv_show
+tt2560140,Attack on Titan,Suspenseful,9.1,2013,tv_show
+tt2560140,Attack on Titan,Worldbuilding,9.1,2013,tv_show
+tt1533395,Life,Docuseries,9.1,2009,tv_show
+tt1533395,Life,Nature Documentary,9.1,2009,tv_show
+tt1533395,Life,Documentary,9.1,2009,tv_show
+tt1533395,Life,Ambitious,9.1,2009,tv_show
+tt1533395,Life,Cinematography,9.1,2009,tv_show
+tt1533395,Life,Educational,9.1,2009,tv_show
+tt1533395,Life,Inspirational,9.1,2009,tv_show
+tt1533395,Life,Narration,9.1,2009,tv_show
+tt1533395,Life,Visual spectacle,9.1,2009,tv_show
+tt1533395,Life,Character development,9.1,2009,tv_show
+tt1533395,Life,Production design,9.1,2009,tv_show
+tt1533395,Life,Suspenseful,9.1,2009,tv_show
+tt8420184,The Last Dance,Basketball,9.0,2020,tv_show
+tt8420184,The Last Dance,Docuseries,9.0,2020,tv_show
+tt8420184,The Last Dance,Sports Documentary,9.0,2020,tv_show
+tt8420184,The Last Dance,Biography,9.0,2020,tv_show
+tt8420184,The Last Dance,Documentary,9.0,2020,tv_show
+tt8420184,The Last Dance,History,9.0,2020,tv_show
+tt8420184,The Last Dance,Sport,9.0,2020,tv_show
+tt8420184,The Last Dance,Dramatic tension,9.0,2020,tv_show
+tt8420184,The Last Dance,Emotional weight,9.0,2020,tv_show
+tt8420184,The Last Dance,Historical accuracy,9.0,2020,tv_show
+tt8420184,The Last Dance,Nostalgic,9.0,2020,tv_show
+tt8420184,The Last Dance,Personal growth,9.0,2020,tv_show
+tt8420184,The Last Dance,Inner conflict,9.0,2020,tv_show
+tt8420184,The Last Dance,Social commentary,9.0,2020,tv_show
+tt8420184,The Last Dance,Confusing,9.0,2020,tv_show
+tt0052520,The Twilight Zone,Body Horror,9.0,1959,tv_show
+tt0052520,The Twilight Zone,Dark Fantasy,9.0,1959,tv_show
+tt0052520,The Twilight Zone,Dystopian Sci-Fi,9.0,1959,tv_show
+tt0052520,The Twilight Zone,Psychological Drama,9.0,1959,tv_show
+tt0052520,The Twilight Zone,Psychological Horror,9.0,1959,tv_show
+tt0052520,The Twilight Zone,Space Sci-Fi,9.0,1959,tv_show
+tt0052520,The Twilight Zone,Supernatural Fantasy,9.0,1959,tv_show
+tt0052520,The Twilight Zone,Supernatural Horror,9.0,1959,tv_show
+tt0052520,The Twilight Zone,Time Travel,9.0,1959,tv_show
+tt0052520,The Twilight Zone,Drama,9.0,1959,tv_show
+tt1877514,The Vietnam War,Docuseries,9.1,2017,tv_show
+tt1877514,The Vietnam War,History Documentary,9.1,2017,tv_show
+tt1877514,The Vietnam War,Military Documentary,9.1,2017,tv_show
+tt1877514,The Vietnam War,Documentary,9.1,2017,tv_show
+tt1877514,The Vietnam War,History,9.1,2017,tv_show
+tt1877514,The Vietnam War,War,9.1,2017,tv_show
+tt1877514,The Vietnam War,Cinematography,9.1,2017,tv_show
+tt1877514,The Vietnam War,Educational,9.1,2017,tv_show
+tt1877514,The Vietnam War,Authentic emotion,9.1,2017,tv_show
+tt1877514,The Vietnam War,Emotional weight,9.1,2017,tv_show
+tt1877514,The Vietnam War,Historical accuracy,9.1,2017,tv_show
+tt1877514,The Vietnam War,Human experience,9.1,2017,tv_show
+tt1877514,The Vietnam War,Narration,9.1,2017,tv_show
+tt1877514,The Vietnam War,Social commentary,9.1,2017,tv_show
+tt1877514,The Vietnam War,Sound design,9.1,2017,tv_show
+tt2861424,Rick and Morty,Adult Animation,9.0,2013,tv_show
+tt2861424,Rick and Morty,Buddy Comedy,9.0,2013,tv_show
+tt2861424,Rick and Morty,Cyberpunk,9.0,2013,tv_show
+tt2861424,Rick and Morty,Dark Comedy,9.0,2013,tv_show
+tt2861424,Rick and Morty,Parody,9.0,2013,tv_show
+tt2861424,Rick and Morty,Psychological Drama,9.0,2013,tv_show
+tt2861424,Rick and Morty,Satire,9.0,2013,tv_show
+tt2861424,Rick and Morty,Sitcom,9.0,2013,tv_show
+tt2861424,Rick and Morty,Space Sci-Fi,9.0,2013,tv_show
+tt2861424,Rick and Morty,Time Travel,9.0,2013,tv_show
+tt2861424,Rick and Morty,Comedic brilliance,9.0,2013,tv_show
+tt2861424,Rick and Morty,Dark humor,9.0,2013,tv_show
+tt2861424,Rick and Morty,Character development,9.0,2013,tv_show
+tt2861424,Rick and Morty,Existential,9.0,2013,tv_show
+tt2861424,Rick and Morty,Family dynamics,9.0,2013,tv_show
+tt2861424,Rick and Morty,Philosophical elements,9.0,2013,tv_show
+tt2861424,Rick and Morty,Social commentary,9.0,2013,tv_show
+tt2861424,Rick and Morty,Derivative,9.0,2013,tv_show
+tt2861424,Rick and Morty,Thin story,9.0,2013,tv_show
+tt2861424,Rick and Morty,Uneven quality,9.0,2013,tv_show
+tt1475582,Sherlock,Police Procedural,9.0,2010,tv_show
+tt1475582,Sherlock,Psychological Thriller,9.0,2010,tv_show
+tt1475582,Sherlock,Whodunnit,9.0,2010,tv_show
+tt1475582,Sherlock,Crime,9.0,2010,tv_show
+tt1475582,Sherlock,Drama,9.0,2010,tv_show
+tt1475582,Sherlock,Mystery,9.0,2010,tv_show
+tt1475582,Sherlock,Thriller,9.0,2010,tv_show
+tt1475582,Sherlock,Adaptation,9.0,2010,tv_show
+tt1475582,Sherlock,Atmospheric,9.0,2010,tv_show
+tt1475582,Sherlock,Chemistry,9.0,2010,tv_show
+tt1475582,Sherlock,Cinematography,9.0,2010,tv_show
+tt1475582,Sherlock,Comedic brilliance,9.0,2010,tv_show
+tt1475582,Sherlock,Friendship,9.0,2010,tv_show
+tt1475582,Sherlock,Performance,9.0,2010,tv_show
+tt1475582,Sherlock,Suspenseful,9.0,2010,tv_show
+tt1475582,Sherlock,Writing,9.0,2010,tv_show
+tt0103359,Batman: The Animated Series,Hand-Drawn Animation,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Hard-boiled Detective,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Psychological Drama,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Superhero,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Suspense Mystery,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Urban Adventure,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Action,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Adventure,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Animation,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Crime,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Animation style,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Atmospheric,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Character development,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Dark tone,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Enduring legacy,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Production design,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Soundtrack,9.0,1992,tv_show
+tt0103359,Batman: The Animated Series,Writing,9.0,1992,tv_show
+tt3032476,Better Call Saul,Dark Comedy,9.0,2015,tv_show
+tt3032476,Better Call Saul,Drug Crime,9.0,2015,tv_show
+tt3032476,Better Call Saul,Legal Drama,9.0,2015,tv_show
+tt3032476,Better Call Saul,Psychological Drama,9.0,2015,tv_show
+tt3032476,Better Call Saul,Tragedy,9.0,2015,tv_show
+tt3032476,Better Call Saul,Crime,9.0,2015,tv_show
+tt3032476,Better Call Saul,Drama,9.0,2015,tv_show
+tt3032476,Better Call Saul,Atmospheric,9.0,2015,tv_show
+tt3032476,Better Call Saul,Authentic emotion,9.0,2015,tv_show
+tt3032476,Better Call Saul,Character development,9.0,2015,tv_show
+tt3032476,Better Call Saul,Cinematography,9.0,2015,tv_show
+tt3032476,Better Call Saul,Dark humor,9.0,2015,tv_show
+tt3032476,Better Call Saul,Dramatic depth,9.0,2015,tv_show
+tt3032476,Better Call Saul,Inner conflict,9.0,2015,tv_show
+tt3032476,Better Call Saul,Narrative complexity,9.0,2015,tv_show
+tt3032476,Better Call Saul,Performance,9.0,2015,tv_show
+tt3032476,Better Call Saul,Writing,9.0,2015,tv_show

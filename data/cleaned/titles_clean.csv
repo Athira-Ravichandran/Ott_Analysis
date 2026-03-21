@@ -1,0 +1,549 @@
+imdb_id,title,content_type,year,decade,era,is_recent,imdb_rating,votes,vote_weighted_score,popularity_tier,runtime_min,runtime_category,genres,genre_primary,certificate,plot,rank,platform,source
+tt0111161,The Shawshank Redemption,movie,1994,1990s,1990s,0,9.3,9,9.3,High,142.0,Epic (2h+),Period Drama|Prison Drama|Drama|Authentic emotion|Character development|Emotional weight|Enduring legacy|Friendship|Inspirational|Performance|Cinematography|Narration,Period Drama,R,"A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",1,,
+tt0068646,The Godfather,movie,1972,1970s,Pre-1990,0,9.2,9,9.2,High,175.0,Epic (2h+),Epic|Gangster|Psychological Drama|Tragedy|Crime|Drama|Atmospheric|Authentic emotion|Character development|Cinematography|Direction|Enduring legacy|Family dynamics|Iconic lines|Iconic performance|Narrative complexity,Epic,R,The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.,2,,
+tt0468569,The Dark Knight,movie,2008,2000s,2000s,0,9.1,9,9.1,High,152.0,Epic (2h+),Action Epic|Epic|Psychological Drama|Psychological Thriller|Superhero|Tragedy|Action|Crime|Drama|Thriller|Action sequences|Cinematography|Direction|Standout performance|Adaptation|Dark tone|Philosophical elements|Character development|Pacing,Action Epic,PG-13,"When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",3,,
+tt0071562,The Godfather Part II,movie,1974,1970s,Pre-1990,0,9.0,9,9.0,High,202.0,Epic (2h+),Epic|Gangster|Tragedy|Crime|Drama|Atmospheric|Cinematography|Production design|Character development|Duality|Family dynamics|Inner conflict|Legacy|Morality|Narrative complexity,Epic,R,"The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",4,,
+tt0050083,12 Angry Men,movie,1957,1950s,Pre-1990,0,9.0,9,9.0,High,96.0,Long (1.5–2h),Legal Drama|Psychological Drama|Crime|Drama|Authentic emotion|Direction|Dramatic tension|Great ensemble|Morality|Social commentary|Suspenseful|Thought-provoking|Writing,Legal Drama,APPROVED,The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.,5,,
+tt0167260,The Lord of the Rings: The Return of the King,movie,2003,2000s,2000s,0,9.0,9,9.0,High,201.0,Epic (2h+),Action Epic|Adventure Epic|Epic|Fantasy Epic|Mountain Adventure|Quest|Sword & Sorcery|Tragedy|Adventure|Drama|Action sequences|Atmospheric|Authentic emotion|Character development|Cinematography|Enduring legacy|Epic|Iconic ending|Adaptation,Action Epic,PG-13,Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.,6,,
+tt0108052,Schindler's List,movie,1993,1990s,1990s,0,9.0,9,9.0,High,195.0,Epic (2h+),Docudrama|Epic|Historical Epic|Period Drama|Prison Drama|Psychological Drama|Tragedy|Biography|Drama|History|Atmospheric|Authentic emotion|Character development|Cinematography|Direction|Historical accuracy|Musical score|Performance|Symbolism,Docudrama,R,"In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",7,,
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,movie,2001,2000s,2000s,0,8.9,8,8.493,Medium,178.0,Epic (2h+),Action Epic|Adventure Epic|Dark Fantasy|Epic|Fantasy Epic|Quest|Sword & Sorcery|Adventure|Drama|Fantasy|Adaptation|Ambitious|Authentic emotion|Character development|Cinematography|Epic|Friendship|Production design|Special effects|Worldbuilding,Action Epic,PG-13,A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.,8,,
+tt0110912,Pulp Fiction,movie,1994,1990s,1990s,0,8.8,8,8.397,Medium,154.0,Epic (2h+),Dark Comedy|Drug Crime|Gangster|Crime|Drama|Atmospheric|Authentic emotion|Cinematography|Comedic brilliance|Dark humor|Genre blending|Iconic soundtrack|Non-linear structure,Dark Comedy,R,"The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",9,,
+tt0060196,"The Good, the Bad and the Ugly",movie,1966,1960s,Pre-1990,0,8.8,8,8.397,Medium,178.0,Epic (2h+),Action Epic|Adventure Epic|Dark Comedy|Desert Adventure|Epic|Period Drama|Quest|Spaghetti Western|Western Epic|Adventure|Action sequences|Atmospheric|Cinematography|Direction|Dramatic tension|Great ensemble|Iconic scene|Iconic score|Thin story,Action Epic,R,A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.,10,,
+tt0167261,The Lord of the Rings: The Two Towers,movie,2002,2000s,2000s,0,8.8,8,8.397,Medium,179.0,Epic (2h+),Action Epic|Adventure Epic|Dark Fantasy|Epic|Fantasy Epic|Quest|Sword & Sorcery|Adventure|Drama|Fantasy|Action sequences|Character development|Cinematography|Creature design|Dramatic tension|Epic|Friendship|Worldbuilding|Adaptation,Action Epic,PG-13,"While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",11,,
+tt0109830,Forrest Gump,movie,1994,1990s,1990s,0,8.8,8,8.397,Medium,142.0,Epic (2h+),Epic|Period Drama|Romantic Epic|Tragic Romance|Drama|Romance|Comedic brilliance|Friendship|Heartfelt|Inspirational|Nostalgic|Personal growth|Adaptation,Epic,PG-13,"The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",12,,
+tt0137523,Fight Club,movie,1999,1990s,1990s,0,8.8,8,8.397,Medium,139.0,Epic (2h+),Dark Comedy|Psychological Drama|Psychological Thriller|Workplace Drama|Crime|Drama|Thriller|Allegorical elements|Cinematography|Direction|Performance|Psychological depth|Social commentary|Sound design|Thought-provoking|Narrative complexity,Dark Comedy,R,An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.,13,,
+tt1375666,Inception,movie,2010,2010s,2010–2014,0,8.8,8,8.397,Medium,148.0,Epic (2h+),Action Epic|Adventure Epic|Epic|Psychological Thriller|Sci-Fi Epic|Action|Adventure|Sci-Fi|Thriller|Dreamlike|Iconic ending|Special effects|Thought-provoking|Ambitious|Character development|Narrative complexity|Confusing|Pacing,Action Epic,PG-13,"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",14,,
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,movie,1980,1980s,Pre-1990,0,8.7,8,8.302,Medium,124.0,Epic (2h+),Action Epic|Adventure Epic|Dark Fantasy|Dystopian Sci-Fi|Epic|Fantasy Epic|Quest|Sci-Fi Epic|Space Sci-Fi|Sword & Sorcery|Action sequences|Character development|Cinematography|Dark tone|Iconic lines|Iconic scene|Iconic score|Special effects|Suspenseful|Worldbuilding,Action Epic,PG,"After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",15,,
+tt0133093,The Matrix,movie,1999,1990s,1990s,0,8.7,8,8.302,Medium,136.0,Epic (2h+),Action Epic|Artificial Intelligence|Cyberpunk|Dystopian Sci-Fi|Gun Fu|Martial Arts|Sci-Fi Epic|Action|Sci-Fi|Action sequences|Cinematography|Philosophical elements|Special effects|Thought-provoking|Character development|Dystopian elements|Religious themes,Action Epic,R,"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",16,,
+tt0099685,GoodFellas,movie,1990,1990s,1990s,0,8.7,8,8.302,Medium,145.0,Epic (2h+),Docudrama|Gangster|True Crime|Biography|Crime|Drama|Character development|Chemistry|Cinematography|Dark humor|Direction|Enduring legacy|Iconic performance|Rewatchable|Soundtrack|Authentic emotion,Docudrama,R,"The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",17,,
+tt0816692,Interstellar,movie,2014,2010s,2010–2014,0,8.7,8,8.302,Medium,169.0,Epic (2h+),Adventure Epic|Epic|Psychological Drama|Quest|Sci-Fi Epic|Space Sci-Fi|Time Travel|Adventure|Drama|Sci-Fi|Ambitious|Cinematography|Cosmic wonder|Emotional stakes|Family dynamics|Scientific depth|Soundtrack|Thought-provoking,Adventure Epic,PG-13,"When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",18,,
+tt0073486,One Flew Over the Cuckoo's Nest,movie,1975,1970s,Pre-1990,0,8.6,8,8.206,Medium,133.0,Epic (2h+),Dark Comedy|Medical Drama|Psychological Drama|Drama|Freedom|Iconic performance|Performance|Adaptation|Allegorical elements|Dramatic tension|Human experience|Mental health|Social commentary,Dark Comedy,R,"A rebellious convict is sent to a psychiatric hospital for evaluation in 1963 Oregon, and encourages his docile companions to take more control of their lives and defy the tyrannical head nurse.",19,,
+tt0114369,Seven,movie,1995,1990s,1990s,0,8.6,8,8.206,Medium,127.0,Epic (2h+),Cop Drama|Hard-boiled Detective|Police Procedural|Psychological Drama|Psychological Thriller|Serial Killer|Tragedy|Crime|Drama|Mystery|Atmospheric|Cinematography|Performance|Suspenseful|Thrilling|Philosophical elements|Religious themes|Social commentary|Dark tone,Cop Drama,R,Two detectives try to track down a serial killer who chooses his victims based on the Seven Deadly Sins.,20,,
+tt0038650,It's a Wonderful Life,movie,1946,1940s,Pre-1990,0,8.6,8,8.206,Medium,130.0,Epic (2h+),Feel-Good Romance|Holiday Family|Holiday Romance|Psychological Drama|Supernatural Fantasy|Drama|Family|Fantasy|Holiday|Romance|Family dynamics|Friendship|Heartfelt|Inspirational|Meaning of life|Nostalgic|Religious themes|Traditional values|Social commentary,Feel-Good Romance,PG,An angel is sent from Heaven to help a desperately frustrated businessman see the value of his own life.,21,,
+tt0102926,The Silence of the Lambs,movie,1991,1990s,1990s,0,8.6,8,8.206,Medium,118.0,Long (1.5–2h),Police Procedural|Psychological Drama|Psychological Horror|Psychological Thriller|Serial Killer|Crime|Drama|Horror|Thriller|Atmospheric|Chemistry|Direction|Iconic lines|Iconic performance|Performance|Psychological depth|Suspenseful|Thrilling,Police Procedural,R,"A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",22,,
+tt0047478,Seven Samurai,movie,1954,1950s,Pre-1990,0,8.6,8,8.206,Medium,207.0,Epic (2h+),Japanese|Action Epic|Epic|Period Drama|Samurai|Action|Drama|Artistic vision|Authentic emotion|Character development|Cinematography|Enduring legacy|Historical accuracy|Musical score|Social commentary|Technical achievement,Japanese,Unrated,"Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him.",23,,
+tt0120815,Saving Private Ryan,movie,1998,1990s,1990s,0,8.6,8,8.206,Medium,169.0,Epic (2h+),Action Epic|Epic|Period Drama|Psychological Drama|Tragedy|War Epic|Drama|War|Action sequences|Cinematography|Direction|Emotional weight|Iconic opening|Performance|Realism|Sound design|Technical achievement|Historical accuracy,Action Epic,R,"Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose comrades have been killed in action.",24,,
+tt0120689,The Green Mile,movie,1999,1990s,1990s,0,8.6,8,8.206,Medium,189.0,Epic (2h+),Period Drama|Prison Drama|Supernatural Fantasy|Tragedy|Crime|Drama|Fantasy|Mystery|Dramatic tension|Emotional weight|Faith|Friendship|Thought-provoking|Adaptation|Social commentary|Supernatural themes,Period Drama,R,A death row guard learns that a gentle giant in his charge possesses a mysterious gift.,25,,
+tt0903747,Breaking Bad,tv_show,2008,2000s,2000s,0,9.5,9,9.5,High,48.0,Short (<1h),Dark Comedy|Drug Crime|Psychological Drama|Psychological Thriller|Tragedy|Crime|Drama|Thriller|Character development|Cinematography|Dark humor|Dramatic tension|Social commentary|Suspenseful|Writing|Family dynamics|Morality|Pacing,Dark Comedy,TV-MA,A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.,1,,
+tt5491994,Planet Earth II,tv_show,2016,2010s,2015–2019,0,9.4,9,9.4,High,50.0,Short (<1h),Docuseries|Nature Documentary|Documentary|Family|Cinematography|Dramatic tension|Educational|Environmentalism|Inspirational|Technical achievement|Visual spectacle|Narration|Social commentary|Sound design,Docuseries,TV-G,David Attenborough returns with a new wildlife documentary that shows life in a variety of habitats.,2,,
+tt0795176,Planet Earth,tv_show,2006,2000s,2000s,0,9.4,9,9.4,High,50.0,Short (<1h),Docuseries|Nature Documentary|Documentary|Family|Ambitious|Cinematography|Educational|Environmentalism|Narration|Realism|Technical achievement|Visual spectacle|Sound design|Survival,Docuseries,TV-PG,"A documentary series on the wildlife found on Earth. Each episode covers a different habitat: deserts, mountains, deep oceans, shallow seas, forests, caves, polar regions, fresh water, plains and jungles. Narrated by David Attenborough.",3,,
+tt0185906,Band of Brothers,tv_show,2001,2000s,2000s,0,9.4,9,9.4,High,50.0,Short (<1h),Historical Epic|Psychological Drama|Tragedy|War Epic|Action|Drama|History|War|Action sequences|Authentic emotion|Character development|Cinematography|Courage|Emotional weight|Friendship|Historical accuracy|Inspirational|Realism,Historical Epic,TV-MA,"The story of Easy Company of the U.S. Army 101st Airborne Division and their mission in World War II Europe, from Operation Overlord to V-J Day.",4,,
+tt7366338,Chernobyl,tv_show,2019,2010s,2015–2019,1,9.3,9,9.3,High,50.0,Short (<1h),Disaster|Docudrama|Epic|Historical Epic|Period Drama|Psychological Drama|Drama|History|Thriller|Authentic emotion|Character development|Cinematography|Direction|Dramatic tension|Production design|Scientific depth|Historical accuracy|Social commentary,Disaster,TV-MA,"In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",5,,
+tt0306414,The Wire,tv_show,2002,2000s,2000s,0,9.3,9,9.3,High,50.0,Short (<1h),Cop Drama|Drug Crime|Epic|Police Procedural|Psychological Drama|Psychological Thriller|Crime|Drama|Thriller|Authentic emotion|Gritty|Narrative complexity|Performance|Realism|Social commentary|Thought-provoking|Writing,Cop Drama,TV-MA,"The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.",6,,
+tt0417299,Avatar: The Last Airbender,tv_show,2005,2000s,2000s,0,9.3,9,9.3,High,23.0,Short (<1h),Adventure Epic|Epic|Fantasy Epic|Globetrotting Adventure|Hand-Drawn Animation|Martial Arts|Quest|Supernatural Fantasy|Teen Adventure|Teen Fantasy|Animation style|Character development|Emotional weight|Friendship|Generational appeal|Philosophical elements|Worldbuilding|Dramatic depth,Adventure Epic,TV-Y7-FV,"In a war-torn world of elemental powers, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",7,,
+tt0141842,The Sopranos,tv_show,1999,1990s,1990s,0,9.2,9,9.2,High,55.0,Short (<1h),Epic|Gangster|Psychological Drama|Crime|Drama|Authentic emotion|Character development|Comedic brilliance|Dark humor|Family dynamics|Narrative complexity|Realism|Social commentary|Writing,Epic,TV-MA,"New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",8,,
+tt6769208,Blue Planet II,tv_show,2017,2010s,2015–2019,0,9.3,9,9.3,High,50.0,Short (<1h),Docuseries|Nature Documentary|Documentary|Family|Cinematography|Educational|Environmentalism|Inspirational|Narration|Realism|Social commentary|Technical achievement|Visual spectacle|Sound design,Docuseries,TV-G,"David Attenborough returns to the world's oceans in this sequel to the acclaimed documentary filming rare and unusual creatures of the deep, as well as documenting the problems our oceans face.",9,,
+tt2395695,Cosmos: A Spacetime Odyssey,tv_show,2014,2010s,2010–2014,0,9.2,9,9.2,High,45.0,Short (<1h),Docuseries|Science & Technology Documentary|Documentary|Family|Cosmic wonder|Educational|Generational appeal|Inspirational|Scientific depth|Thought-provoking|Narration|Social commentary,Docuseries,TV-PG,An exploration of our discovery of the laws of nature and coordinates in space and time.,10,,
+tt0081846,Cosmos,tv_show,1980,1980s,Pre-1990,0,9.3,9,9.3,High,50.0,Short (<1h),Docuseries|Science & Technology Documentary|Documentary|Ambitious|Cosmic wonder|Educational|Inspirational|Narration|Philosophical elements|Scientific depth|Soundtrack,Docuseries,TV-PG,Astronomer Carl Sagan leads us on an engaging guided tour of the various elements and cosmological theories of the universe.,11,,
+tt9253866,Our Planet,tv_show,2019,2010s,2015–2019,1,9.2,9,9.2,High,50.0,Short (<1h),Docuseries|Nature Documentary|Documentary|Family|Cinematography|Educational|Environmentalism|Inspirational|Technical achievement|Thought-provoking|Visual spectacle|Narration|Realism|Social commentary,Docuseries,TV-PG,"Explores and unravels the mystery of how and why animals migrate, showing some of the most dramatic and compelling stories in the natural world through spectacular and innovative cinematography.",12,,
+tt0944947,Game of Thrones,tv_show,2011,2010s,2010–2014,0,9.2,9,9.2,High,50.0,Short (<1h),Action Epic|Adventure Epic|Dark Fantasy|Epic|Fantasy Epic|Psychological Drama|Sword & Sorcery|Tragedy|Action|Adventure|Action sequences|Adaptation|Character development|Cinematography|Dramatic tension|Narrative complexity|Production design|Soundtrack|Worldbuilding,Action Epic,TV-MA,"Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",13,,
+tt7678620,Bluey,tv_show,2018,2010s,2015–2019,1,9.3,9,9.3,High,7.0,Short (<1h),Animal Adventure|Coming-of-Age|Hand-Drawn Animation|Animation|Family|Authentic emotion|Comedic brilliance|Comforting|Educational|Family dynamics|Heartfelt|Inspirational|Relatable,Animal Adventure,TV-Y,The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy as she has fun with her family and friends in everyday situations.,14,,
+tt0071075,The World at War,tv_show,1973,1970s,Pre-1990,0,9.2,9,9.2,High,52.0,Short (<1h),Docuseries|History Documentary|Military Documentary|Documentary|History|War|Authentic emotion|Educational|Emotional weight|Historical accuracy|Human experience|Narration|Realism|Thought-provoking|Social commentary,Docuseries,TV-PG,"26-part documentary series tracing World War II from the rise of Nazi Germany through the conflict's major campaigns and home fronts, using archival footage and firsthand interviews, narrated by Laurence Olivier.",15,,
+tt1355642,Fullmetal Alchemist: Brotherhood,tv_show,2009,2000s,2000s,0,9.1,9,9.1,High,24.0,Short (<1h),Japanese|Adult Animation|Anime|Epic|Fantasy Epic|Hand-Drawn Animation|Political Drama|Psychological Drama|Shōnen|Steampunk|Action sequences|Adaptation|Animation style|Character development|Emotional stakes|Family dynamics|Philosophical elements|Soundtrack|Worldbuilding,Japanese,TV-14,Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.,16,,
+tt2560140,Attack on Titan,tv_show,2013,2010s,2010–2014,0,9.1,9,9.1,High,24.0,Short (<1h),Japanese|Action Epic|Adult Animation|Anime|Body Horror|Dark Fantasy|Epic|Fantasy Epic|Folk Horror|Hand-Drawn Animation|Action sequences|Animation style|Character development|Dystopian elements|Emotional stakes|Narrative complexity|Philosophical elements|Soundtrack|Suspenseful|Worldbuilding,Japanese,TV-MA,"In a world where humanity shelters behind towering walls from man-eating Titans, a determined teen joins the elite Survey Corps to fight the giants and uncover the secrets of their origin.",17,,
+tt1533395,Life,tv_show,2009,2000s,2000s,0,9.1,9,9.1,High,50.0,Short (<1h),Docuseries|Nature Documentary|Documentary|Ambitious|Cinematography|Educational|Inspirational|Narration|Visual spectacle|Character development|Production design|Suspenseful,Docuseries,TV-G,"A global view of the specialized strategies and extreme behavior that living things have developed in order to survive; what Charles Darwin termed ""the struggle for existence.""",18,,
+tt8420184,The Last Dance,tv_show,2020,2020s,2020s,1,9.0,9,9.0,High,50.0,Short (<1h),Basketball|Docuseries|Sports Documentary|Biography|Documentary|History|Sport|Dramatic tension|Emotional weight|Historical accuracy|Nostalgic|Personal growth|Inner conflict|Social commentary|Confusing,Basketball,TV-MA,"Led by Michael Jordan, the 1990s Chicago Bulls establish themselves as one of the most notable dynasties in sports history.",19,,
+tt0052520,The Twilight Zone,tv_show,1959,1950s,Pre-1990,0,9.0,9,9.0,High,50.0,Short (<1h),Body Horror|Dark Fantasy|Dystopian Sci-Fi|Psychological Drama|Psychological Horror|Space Sci-Fi|Supernatural Fantasy|Supernatural Horror|Time Travel|Drama,Body Horror,TV-PG,"Classic American Anthology series created by Rod Serling, featuring standalone stories of science fiction, fantasy, and horror, each with a twist ending or moral lesson.",20,,
+tt1877514,The Vietnam War,tv_show,2017,2010s,2015–2019,0,9.1,9,9.1,High,100.0,Long (1.5–2h),Docuseries|History Documentary|Military Documentary|Documentary|History|War|Cinematography|Educational|Authentic emotion|Emotional weight|Historical accuracy|Human experience|Narration|Social commentary|Sound design,Docuseries,TV-MA,"A documentary series chronicling the Vietnam War through archival footage and firsthand accounts from soldiers, civilians, and leaders on all sides, tracing its origins, major events, and enduring impact on the United States and Vietnam.",21,,
+tt2861424,Rick and Morty,tv_show,2013,2010s,2010–2014,0,9.0,9,9.0,High,23.0,Short (<1h),Adult Animation|Buddy Comedy|Cyberpunk|Dark Comedy|Parody|Psychological Drama|Satire|Sitcom|Space Sci-Fi|Time Travel|Comedic brilliance|Dark humor|Character development|Existential|Family dynamics|Philosophical elements|Social commentary|Derivative|Thin story|Uneven quality,Adult Animation,TV-MA,The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.,22,,
+tt1475582,Sherlock,tv_show,2010,2010s,2010–2014,0,9.0,9,9.0,High,90.0,Standard (1–1.5h),Police Procedural|Psychological Thriller|Whodunnit|Crime|Drama|Mystery|Thriller|Adaptation|Atmospheric|Chemistry|Cinematography|Comedic brilliance|Friendship|Performance|Suspenseful|Writing,Police Procedural,TV-14,"In modern-day London, brilliant but eccentric detective Sherlock Holmes teams with war veteran Dr. John Watson to crack baffling crimes, outwit formidable foes, and aid Scotland Yard with razor-sharp deduction.",23,,
+tt0103359,Batman: The Animated Series,tv_show,1992,1990s,1990s,0,9.0,9,9.0,High,23.0,Short (<1h),Hand-Drawn Animation|Hard-boiled Detective|Psychological Drama|Superhero|Suspense Mystery|Urban Adventure|Action|Adventure|Animation|Crime|Animation style|Atmospheric|Character development|Dark tone|Enduring legacy|Production design|Soundtrack|Writing,Hand-Drawn Animation,TV-PG,"Billionaire Bruce Wayne secretly operates as Batman, a vigilante who battles a rouges' gallery of criminals and supervillains in Gotham City with the aid of various sidekicks and allies.",24,,
+tt3032476,Better Call Saul,tv_show,2015,2010s,2015–2019,0,9.0,9,9.0,High,45.0,Short (<1h),Dark Comedy|Drug Crime|Legal Drama|Psychological Drama|Tragedy|Crime|Drama|Atmospheric|Authentic emotion|Character development|Cinematography|Dark humor|Dramatic depth|Inner conflict|Narrative complexity|Performance|Writing,Dark Comedy,TV-MA,"Albuquerque lawyer Jimmy McGill scrapes for clients and respect, but every win drags him closer to shady deals, dangerous players, and the alter ego Saul Goodman.",25,,
+KGL_tm430666,Hantu Kak Limah,movie,2018,2010s,2015–2019,1,5.6,678,15.858,Low,111.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm846354,#FriendButMarried 2,movie,2020,2020s,2020s,1,6.9,311,17.21,Low,104.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm464527,ReMastered: The Miami Showband Massacre,movie,2019,2010s,2015–2019,1,7.0,1400,22.025,Medium,70.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm70652,Thaandavam,movie,2012,2010s,2010–2014,0,6.1,2034,20.182,Medium,167.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts190452,Stolen Away,tv_show,2020,2020s,2020s,1,7.1,2344,23.928,Medium,48.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm835414,Sitara,movie,2019,2010s,2015–2019,1,8.0,5,6.225,Low,128.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm421776,Ronnie Coleman: The King,movie,2018,2010s,2015–2019,1,7.0,3839,25.09,Medium,93.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm469432,Hating Peter Tatchell,movie,2020,2020s,2020s,1,7.6,787,22.014,Low,91.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm826368,American Son,movie,2019,2010s,2015–2019,1,5.8,7004,22.303,High,90.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm85563,Ezra,movie,2007,2000s,2000s,0,6.4,274,15.612,Low,105.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm375681,S Storm,movie,2016,2010s,2015–2019,0,5.1,721,14.579,Low,90.0,Standard (1–1.5h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm71148,Thanks for Sharing,movie,2013,2010s,2010–2014,0,6.4,28396,28.501,High,112.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts312241,Oats Studios,tv_show,2017,2010s,2015–2019,0,6.4,1512,20.351,Medium,12.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm411507,John Mulaney: Kid Gorgeous at Radio City,movie,2018,2010s,2015–2019,1,7.9,7933,30.806,High,64.0,Standard (1–1.5h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm233377,The Edge of Seventeen,movie,2016,2010s,2015–2019,0,7.3,124099,37.185,High,105.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm233482,The Foreigner,movie,2017,2010s,2015–2019,0,7.0,113338,35.381,High,113.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts80084,Dragon Pilot: Hisone and Masotan,tv_show,2018,2010s,2015–2019,1,6.9,501,18.635,Low,25.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts21693,"Sister, Sister",tv_show,1994,1990s,1990s,0,6.2,12657,25.435,High,22.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_ts44663,Oscar's Oasis,tv_show,2010,2010s,2010–2014,0,7.4,586,20.488,Low,9.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_tm239078,Jada,movie,2016,2010s,2015–2019,0,5.4,159,11.902,Low,16.0,Short (<1h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts300325,Surviving Summer,tv_show,2022,2020s,2020s,1,6.3,1433,19.886,Medium,28.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm176297,Kyaa Kool Hai Hum,movie,2005,2000s,2000s,0,6.1,3537,21.647,Medium,172.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm449860,King of Boys,movie,2018,2010s,2015–2019,1,5.8,423,15.239,Low,169.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts76743,Dokidoki! PreCure,tv_show,2013,2010s,2010–2014,0,6.2,195,14.212,Low,23.0,Short (<1h),Unknown,Unknown,TV-G,,,Netflix,kaggle
+KGL_ts82582,The Truth Seekers,tv_show,2016,2010s,2015–2019,0,7.1,16,8.736,Low,44.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts237104,History 101,tv_show,2020,2020s,2020s,1,6.8,4100,24.568,Medium,22.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm1185687,Silverton Siege,movie,2022,2020s,2020s,1,6.2,3434,21.923,Medium,100.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts83663,A Taiwanese Tale of Two Cities,tv_show,2018,2010s,2015–2019,1,6.1,159,13.445,Low,69.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm312676,Leave No Trace,movie,2018,2010s,2015–2019,1,7.1,58727,33.859,High,109.0,Long (1.5–2h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_ts20433,JoJo's Bizarre Adventure,tv_show,2012,2010s,2010–2014,0,8.4,21354,36.368,High,24.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts42169,ERASED,tv_show,2016,2010s,2015–2019,0,8.5,44643,39.523,High,22.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm182580,Ghadi,movie,2013,2010s,2010–2014,0,7.3,1128,22.285,Medium,100.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm419052,Ek Jaan Hain Hum,movie,1983,1980s,Pre-1990,0,6.3,70,11.663,Low,151.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm374395,Vanjagar Ulagam,movie,2018,2010s,2015–2019,1,6.1,258,14.721,Low,161.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm828570,Ahaan,movie,2019,2010s,2015–2019,1,7.0,327,17.611,Low,81.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts86945,Abby Hatcher,tv_show,2018,2010s,2015–2019,1,5.4,182,12.217,Low,17.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_tm247767,Kiss of Life,movie,2015,2010s,2015–2019,0,5.9,1248,18.27,Medium,102.0,Long (1.5–2h),Unknown,Unknown,G,,,Netflix,kaggle
+KGL_tm58382,Not Another Teen Movie,movie,2001,2000s,2000s,0,5.7,105352,28.629,High,89.0,Standard (1–1.5h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm142564,3 Idiots,movie,2009,2000s,2000s,0,8.4,390739,46.972,High,170.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm182125,Zindagi Na Milegi Dobara,movie,2011,2010s,2010–2014,0,8.1,76565,39.561,High,166.0,Epic (2h+),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_tm44634,Kevin James: Sweat the Small Stuff,movie,2001,2000s,2000s,0,7.4,1087,22.471,Medium,42.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm233616,LEGO Marvel Super Heroes: Avengers Reassembled!,movie,2015,2010s,2015–2019,0,6.1,862,17.91,Low,22.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts308845,The Billion Dollar Code,tv_show,2021,2020s,2020s,1,8.0,8164,31.296,High,67.0,Standard (1–1.5h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts37896,Conspiracy,tv_show,2015,2010s,2015–2019,0,6.2,379,15.995,Low,43.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts250172,Afronta!,tv_show,2017,2010s,2015–2019,0,7.4,8,7.061,Low,14.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm1079334,"Bob Ross: Happy Accidents, Betrayal & Greed",movie,2021,2020s,2020s,1,6.9,5856,25.997,Medium,92.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts287836,Into the Night,tv_show,2020,2020s,2020s,1,7.1,31559,31.944,High,36.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm320570,Tully,movie,2018,2010s,2015–2019,1,7.0,57576,33.322,High,96.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm1161601,Ben & Jody,movie,2022,2020s,2020s,1,5.4,222,12.681,Low,114.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm368725,Love Is a Story,movie,2015,2010s,2015–2019,0,6.0,365,15.381,Low,107.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm98978,The Blue Lagoon,movie,1980,1980s,Pre-1990,0,5.8,69844,28.096,High,104.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm236725,My Beautiful Broken Brain,movie,2014,2010s,2010–2014,0,7.0,2286,23.515,Medium,84.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts30311,Victorious,tv_show,2010,2010s,2010–2014,0,6.9,24838,30.326,High,25.0,Short (<1h),Unknown,Unknown,TV-G,,,Netflix,kaggle
+KGL_tm365670,Perú: Tesoro Escondido,movie,2017,2010s,2015–2019,0,6.1,527,16.608,Low,76.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm59590,One Piece Film: Z,movie,2012,2010s,2010–2014,0,7.8,7243,30.108,High,108.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm1150800,Amandla,movie,2022,2020s,2020s,1,5.5,391,14.263,Low,106.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm428073,When Angels Sleep,movie,2018,2010s,2015–2019,1,5.5,3684,19.615,Medium,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm267429,"Surviving Compton: Dre, Suge and Michel'le",movie,2016,2010s,2015–2019,0,6.5,718,18.569,Low,87.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm266666,Gerald's Game,movie,2017,2010s,2015–2019,0,6.5,106451,32.676,High,104.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts23319,Timmy Time,tv_show,2009,2000s,2000s,0,6.9,1111,21.018,Medium,14.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_ts89340,Crime Diaries: The Candidate,tv_show,2019,2010s,2015–2019,1,7.5,813,21.83,Low,42.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm165809,Bluffmaster!,movie,2005,2000s,2000s,0,6.6,6370,25.108,Medium,137.0,Epic (2h+),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_ts304505,Love Is Blind,tv_show,2020,2020s,2020s,1,6.1,7863,23.763,High,54.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts287853,Coyotes,tv_show,2021,2020s,2020s,1,5.2,308,12.948,Low,45.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm820338,The 9th Precinct,movie,2019,2010s,2015–2019,1,5.6,535,15.283,Low,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm356209,Singapore,movie,1960,1960s,Pre-1990,0,6.4,84,12.348,Low,158.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm144021,LEGO DC Comics Super Heroes: Batman Be-Leaguered,movie,2014,2010s,2010–2014,0,6.5,1340,20.328,Medium,22.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts79409,A.I.C.O. -Incarnation-,tv_show,2018,2010s,2015–2019,1,6.3,1203,19.408,Medium,25.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts79856,SWORDGAI The Animation,tv_show,2018,2010s,2015–2019,1,5.8,932,17.225,Low,23.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm885948,"Yours Sincerely, Kanan Gill",movie,2020,2020s,2020s,1,7.1,969,21.206,Medium,72.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm452900,ReMastered: Massacre at the Stadium,movie,2019,2010s,2015–2019,1,7.2,787,20.855,Low,64.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm676311,Sightless,movie,2020,2020s,2020s,1,5.5,8368,21.575,High,89.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts88821,I Hear You,tv_show,2019,2010s,2015–2019,1,7.2,601,20.013,Low,44.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm433048,This Is the Night,movie,2021,2020s,2020s,1,5.4,626,15.105,Low,100.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm927718,The Paper Tigers,movie,2020,2020s,2020s,1,6.3,4341,22.917,Medium,110.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm78919,Mr. Bean's Holiday,movie,2007,2000s,2000s,0,6.4,125160,32.624,High,90.0,Standard (1–1.5h),Unknown,Unknown,G,,,Netflix,kaggle
+KGL_ts14583,BoJack Horseman,tv_show,2014,2010s,2010–2014,0,8.8,148127,45.502,High,26.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts90234,I Think You Should Leave with Tim Robinson,tv_show,2019,2010s,2015–2019,1,7.9,11900,32.197,High,16.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm474618,A Tale of Two Kitchens,movie,2019,2010s,2015–2019,1,6.5,145,14.068,Low,29.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts343430,The 7 Lives of Lea,tv_show,2022,2020s,2020s,1,7.5,2684,25.717,Medium,45.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm1075698,Metal Lords,movie,2022,2020s,2020s,1,6.7,24672,29.428,High,97.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm189171,Wild Tango,movie,1993,1990s,1990s,0,6.7,1584,21.44,Medium,124.0,Epic (2h+),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm60213,One More Try,movie,2012,2010s,2010–2014,0,6.0,203,13.858,Low,100.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm456513,Army of the Dead,movie,2021,2020s,2020s,1,5.7,169348,29.804,High,148.0,Epic (2h+),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm348281,Kingdom of Us,movie,2017,2010s,2015–2019,0,6.9,904,20.401,Low,109.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts84633,The Promised Neverland,tv_show,2019,2010s,2015–2019,1,8.3,36018,37.819,High,23.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts47714,Kim's Convenience,tv_show,2016,2010s,2015–2019,0,8.2,17706,34.835,High,22.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm851499,Vir Das: For India,movie,2020,2020s,2020s,1,7.7,1260,23.876,Medium,75.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm239769,I'll Sleep When I'm Dead,movie,2016,2010s,2015–2019,0,6.6,1364,20.692,Medium,82.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts74931,Kung Fu Panda Awesome Secrets,tv_show,2008,2000s,2000s,0,7.1,59,12.625,Low,32.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm438994,The Holiday Calendar,movie,2018,2010s,2015–2019,1,5.7,10060,22.815,High,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm319882,Hampstead,movie,2017,2010s,2015–2019,0,6.0,6449,22.857,High,102.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts21740,Black Butler,tv_show,2008,2000s,2000s,0,8.2,1877,26.844,Medium,25.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts55966,LEGO Friends: The Power of Friendship,tv_show,2016,2010s,2015–2019,0,6.7,54,11.66,Low,23.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_ts82559,Amazing Interiors,tv_show,2018,2010s,2015–2019,1,6.6,802,19.171,Low,26.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm235979,My Friend Pinto,movie,2011,2010s,2010–2014,0,5.3,392,13.75,Low,115.0,Long (1.5–2h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_ts88234,Man Like Mobeen,tv_show,2017,2010s,2015–2019,0,8.0,2737,27.499,Medium,22.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts81064,Legacies,tv_show,2018,2010s,2015–2019,1,7.2,30634,32.301,High,41.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts84243,Baby,tv_show,2018,2010s,2015–2019,1,6.8,11202,27.535,High,45.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm192405,Gattaca,movie,1997,1990s,1990s,0,7.8,300701,42.729,High,106.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts80411,Lawless Lawyer,tv_show,2018,2010s,2015–2019,1,7.6,1785,24.714,Medium,64.0,Standard (1–1.5h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm140653,Look for a Star,movie,2009,2000s,2000s,0,5.6,719,16.001,Low,117.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts288536,The Great British Baking Show,tv_show,2010,2010s,2010–2014,0,8.6,9856,34.346,High,57.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm149578,Mission Blue,movie,2014,2010s,2010–2014,0,7.9,1991,26.064,Medium,94.0,Long (1.5–2h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_tm38454,Jeff Dunham's Very Special Christmas Special,movie,2008,2000s,2000s,0,7.4,3042,25.776,Medium,85.0,Standard (1–1.5h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts255823,The House Arrest of Us,tv_show,2020,2020s,2020s,1,5.5,116,11.375,Low,26.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts37866,Call My Agent!,tv_show,2015,2010s,2015–2019,0,8.3,14061,34.429,High,55.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm447520,Sebastian Maniscalco: Stay Hungry,movie,2019,2010s,2015–2019,1,7.0,1324,21.856,Medium,65.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm22327,Full Metal Jacket,movie,1987,1980s,Pre-1990,0,8.3,729274,48.662,High,117.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts277084,Man vs. Bee,tv_show,2022,2020s,2020s,1,6.8,22287,29.567,High,11.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm946801,Just Another Christmas,movie,2020,2020s,2020s,1,6.7,4506,24.481,Medium,101.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm998188,More the Merrier,movie,2021,2020s,2020s,1,5.4,3302,19.002,Medium,112.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm922429,The Block Island Sound,movie,2021,2020s,2020s,1,5.3,7778,20.622,High,98.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm351181,Turkish Dance School,movie,2017,2010s,2015–2019,0,5.6,2202,18.721,Medium,106.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm830151,One Day We'll Talk About Today,movie,2020,2020s,2020s,1,7.4,1155,22.666,Medium,121.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm321596,The Long Dumb Road,movie,2018,2010s,2015–2019,1,6.1,3220,21.399,Medium,90.0,Standard (1–1.5h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts314164,Tomorrow,tv_show,2022,2020s,2020s,1,7.7,8564,30.282,High,61.0,Standard (1–1.5h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts329711,"Love, Life & Everything in Between",tv_show,2022,2020s,2020s,1,5.6,94,11.075,Low,27.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts296179,The War Next-door,tv_show,2021,2020s,2020s,1,5.7,444,15.096,Low,33.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm440208,Hadithi za Kumekucha: Fatuma,movie,2018,2010s,2015–2019,1,7.7,13,8.825,Low,85.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm7951,Tim Allen: Rewires America,movie,1991,1990s,1990s,0,6.0,198,13.793,Low,30.0,Short (<1h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_tm149038,Bill Burr: I'm Sorry You Feel That Way,movie,2014,2010s,2010–2014,0,8.3,8084,32.434,High,80.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm448122,Taylor Swift: Reputation Stadium Tour,movie,2018,2010s,2015–2019,1,8.3,5435,31.003,Medium,125.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm975741,Octonauts: The Ring of Fire,movie,2021,2020s,2020s,1,6.4,137,13.695,Low,72.0,Standard (1–1.5h),Unknown,Unknown,G,,,Netflix,kaggle
+KGL_tm1047503,Trees of Peace,movie,2021,2020s,2020s,1,6.4,1104,19.478,Medium,97.0,Long (1.5–2h),Unknown,Unknown,NC-17,,,Netflix,kaggle
+KGL_tm234735,Time Out,movie,2015,2010s,2015–2019,0,6.0,414,15.708,Low,98.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm1160484,Donkeyhead,movie,2022,2020s,2020s,1,6.1,263,14.772,Low,106.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm1212673,Joel Kim Booster: Psychosexual,movie,2022,2020s,2020s,1,5.5,284,13.502,Low,67.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts43209,The Cuba Libre Story,tv_show,2015,2010s,2015–2019,0,7.6,1649,24.453,Medium,45.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm678022,The Prom,movie,2020,2020s,2020s,1,5.9,26197,26.068,High,130.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts33338,Top Boy,tv_show,2011,2010s,2010–2014,0,8.4,24165,36.819,High,48.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm361998,The Wolf's Call,movie,2019,2010s,2015–2019,1,6.9,17468,29.272,High,115.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts3666,Den-noh Coil,tv_show,2007,2000s,2000s,0,7.8,881,22.975,Low,25.0,Short (<1h),Unknown,Unknown,TV-Y7,,,Netflix,kaggle
+KGL_ts38761,Another Miss Oh,tv_show,2016,2010s,2015–2019,0,7.8,1866,25.515,Medium,69.0,Standard (1–1.5h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm1002815,Nightbooks,movie,2021,2020s,2020s,1,5.7,8573,22.419,High,103.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts321277,Daniel Sloss: Live Shows,tv_show,2018,2010s,2015–2019,1,8.5,3443,30.065,Medium,60.0,Standard (1–1.5h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts43341,Atelier,tv_show,2015,2010s,2015–2019,0,6.3,7,5.689,Low,69.0,Standard (1–1.5h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm1022103,Outlaws,movie,2021,2020s,2020s,1,6.9,3985,24.844,Medium,125.0,Epic (2h+),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm140877,The Imitation Game,movie,2014,2010s,2010–2014,0,8.0,756254,47.029,High,113.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm478701,Lara and the Beat,movie,2018,2010s,2015–2019,1,5.8,149,12.621,Low,137.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm172211,Question Mark,movie,2011,2010s,2010–2014,0,7.0,259,16.905,Low,102.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm65765,6 Bullets,movie,2012,2010s,2010–2014,0,6.0,14988,25.055,High,115.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm321149,Fishtronaut: The Movie,movie,2018,2010s,2015–2019,1,7.5,73,14.019,Low,88.0,Standard (1–1.5h),Unknown,Unknown,G,,,Netflix,kaggle
+KGL_ts158608,The Ultimate Braai Master,tv_show,2012,2010s,2010–2014,0,8.1,36,12.702,Low,45.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm368241,Duck Butter,movie,2018,2010s,2015–2019,1,5.2,3978,18.719,Medium,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts79695,Sintonia,tv_show,2019,2010s,2015–2019,1,6.6,1172,20.257,Medium,44.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm416105,Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life,movie,2018,2010s,2015–2019,1,7.1,2616,24.266,Medium,74.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm1094217,Chickenhare and the Hamster of Darkness,movie,2022,2020s,2020s,1,6.3,1303,19.626,Medium,91.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm140911,Imperial Dreams,movie,2014,2010s,2010–2014,0,6.7,4509,24.483,Medium,87.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts222333,Arcane,tv_show,2021,2020s,2020s,1,9.0,186899,47.444,High,41.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm279017,"Michael Bolton's Big, Sexy Valentine's Day Special",movie,2017,2010s,2015–2019,0,6.8,2126,22.629,Medium,54.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm960145,Spoiled Brats,movie,2021,2020s,2020s,1,6.1,5688,22.906,Medium,95.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm840242,Arsenio Hall: Smart and Classy,movie,2019,2010s,2015–2019,1,6.0,460,15.982,Low,63.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm834715,Single Slipper Size - 7,movie,2019,2010s,2015–2019,1,8.4,3143,29.379,Medium,120.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm452867,Jo Pil-ho: The Dawning Rage,movie,2019,2010s,2015–2019,1,6.3,2193,21.05,Medium,127.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm137013,The Ryan White Story,movie,1989,1980s,Pre-1990,0,7.2,863,21.143,Low,102.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm16479,White Christmas,movie,1954,1950s,Pre-1990,0,7.5,42488,34.712,High,115.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm324588,Rory Scovel Tries Stand-Up for the First Time,movie,2017,2010s,2015–2019,0,6.7,831,19.565,Low,66.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm887369,Jerry Seinfeld: 23 Hours to Kill,movie,2020,2020s,2020s,1,6.7,5128,24.857,Medium,60.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm159593,No One Killed Jessica,movie,2011,2010s,2010–2014,0,7.2,11783,29.313,High,136.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm919903,Tragic Jungle,movie,2020,2020s,2020s,1,5.6,937,16.644,Low,96.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts292696,Intimacy,tv_show,2022,2020s,2020s,1,6.8,1674,21.923,Medium,48.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm143642,Who Am I,movie,2014,2010s,2010–2014,0,7.5,55044,35.555,High,105.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm1065788,Last Summer,movie,2021,2020s,2020s,1,6.3,2878,21.793,Medium,101.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts226602,How to Fix a Drug Scandal,tv_show,2020,2020s,2020s,1,7.0,3298,24.629,Medium,53.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm243931,The Beginning of Life,movie,2016,2010s,2015–2019,0,7.5,940,22.302,Medium,98.0,Long (1.5–2h),Unknown,Unknown,G,,,Netflix,kaggle
+KGL_tm446558,Hedefim Sensin,movie,2018,2010s,2015–2019,1,6.2,4459,22.626,Medium,105.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm1106044,100 días con la Tata,movie,2021,2020s,2020s,1,7.9,299,19.569,Low,82.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm1130275,Mo Amer: Mohammed in Texas,movie,2021,2020s,2020s,1,6.5,652,18.297,Low,64.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm610571,Diamonds in the Sky,movie,2014,2010s,2010–2014,0,7.4,10,7.706,Low,132.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm432313,Manu,movie,2018,2010s,2015–2019,1,7.6,1081,23.06,Medium,182.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm408871,Jefe,movie,2018,2010s,2015–2019,1,5.4,1102,16.43,Medium,89.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm501313,Gunpowder Milkshake,movie,2021,2020s,2020s,1,6.0,42709,27.783,High,114.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm244923,My Mother's Wound,movie,2016,2010s,2015–2019,0,7.3,3692,26.042,Medium,120.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts38090,Versailles,tv_show,2015,2010s,2015–2019,0,7.9,16505,33.319,High,54.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm285171,Clinical,movie,2017,2010s,2015–2019,0,5.1,8030,19.914,High,104.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm244403,ARQ,movie,2016,2010s,2015–2019,0,6.3,39108,28.931,High,88.0,Standard (1–1.5h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts82192,Samantha!,tv_show,2018,2010s,2015–2019,1,6.5,517,17.643,Low,28.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm351505,The Reservoir Game,movie,2017,2010s,2015–2019,0,6.0,35,9.338,Low,100.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts296153,Ashley Garcia: Genius in Love,tv_show,2020,2020s,2020s,1,6.7,1211,20.659,Medium,29.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_ts285469,Headspace Guide to Sleep,tv_show,2021,2020s,2020s,1,6.8,466,18.151,Low,19.0,Short (<1h),Unknown,Unknown,TV-G,,,Netflix,kaggle
+KGL_tm320211,Children of God,movie,1994,1990s,1990s,0,6.3,612,17.561,Low,63.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm89677,The Terminal,movie,2004,2000s,2000s,0,7.4,441752,41.774,High,128.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm285356,First They Killed My Father,movie,2017,2010s,2015–2019,0,7.2,17871,30.616,High,136.0,Epic (2h+),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts33349,Robocar Poli,tv_show,2011,2010s,2010–2014,0,6.0,126,12.623,Low,14.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_tm300280,Rumble: The Indians Who Rocked the World,movie,2017,2010s,2015–2019,0,7.7,830,22.481,Low,103.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts246178,Eden,tv_show,2021,2020s,2020s,1,6.6,1159,20.225,Medium,25.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_ts300456,My Unorthodox Life,tv_show,2021,2020s,2020s,1,5.5,1207,16.951,Medium,40.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm873159,The Yin-Yang Master: Dream of Eternity,movie,2020,2020s,2020s,1,6.4,4751,23.532,Medium,132.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts223240,Itaewon Class,tv_show,2020,2020s,2020s,1,8.2,12780,33.674,High,70.0,Standard (1–1.5h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts232506,50M2,tv_show,2021,2020s,2020s,1,6.9,5645,25.887,Medium,49.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm1092892,Found,movie,2021,2020s,2020s,1,7.5,1198,23.091,Medium,97.0,Long (1.5–2h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_ts36630,Dinotrux,tv_show,2015,2010s,2015–2019,0,6.7,465,17.878,Low,23.0,Short (<1h),Unknown,Unknown,TV-Y7,,,Netflix,kaggle
+KGL_ts93981,Monarca,tv_show,2019,2010s,2015–2019,1,7.8,3264,27.408,Medium,44.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts235563,Daughter from Another Mother,tv_show,2021,2020s,2020s,1,7.2,1812,23.46,Medium,38.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm245937,Win It All,movie,2017,2010s,2015–2019,0,6.2,9309,24.607,High,88.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts296129,Elite Short Stories: Guzmán Caye Rebe,tv_show,2021,2020s,2020s,1,7.4,2319,24.905,Medium,12.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm165593,Rumor Has It...,movie,2005,2000s,2000s,0,5.5,58247,26.209,High,97.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm145791,Miss Granny,movie,2014,2010s,2010–2014,0,7.2,3508,25.525,Medium,124.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm471878,Fatima,movie,2020,2020s,2020s,1,6.5,3232,22.812,Medium,113.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm369389,The Silence of Others,movie,2019,2010s,2015–2019,1,8.0,2096,26.573,Medium,95.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm449070,Black Mirror: Bandersnatch,movie,2018,2010s,2015–2019,1,7.1,125229,36.194,High,90.0,Standard (1–1.5h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm812916,The Stronghold,movie,2020,2020s,2020s,1,6.9,10013,27.604,High,105.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts32060,Sam & Cat,tv_show,2013,2010s,2010–2014,0,5.6,9744,22.337,High,24.0,Short (<1h),Unknown,Unknown,TV-G,,,Netflix,kaggle
+KGL_tm300713,High & Low The Movie,movie,2016,2010s,2015–2019,0,6.4,583,17.705,Low,129.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm363248,A Futile and Stupid Gesture,movie,2018,2010s,2015–2019,1,6.7,16158,28.196,High,101.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm1144897,My Father's Violin,movie,2022,2020s,2020s,1,6.4,3216,22.448,Medium,112.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts61384,My Love: Six Stories of True Love,tv_show,2021,2020s,2020s,1,7.5,291,18.49,Low,70.0,Standard (1–1.5h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_ts283676,Last Chance U: Basketball,tv_show,2021,2020s,2020s,1,8.3,2531,28.249,Medium,57.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm10739,Johnny Mnemonic,movie,1995,1990s,1990s,0,5.6,71563,27.186,High,97.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts18010,Bloodline,tv_show,2015,2010s,2015–2019,0,7.9,51422,37.218,High,57.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm182322,Kai Po Che!,movie,2013,2010s,2010–2014,0,7.7,36784,35.156,High,126.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts35554,Scream: The TV Series,tv_show,2015,2010s,2015–2019,0,7.1,40676,32.726,High,43.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm196125,"Hello, My Name Is Doris",movie,2015,2010s,2015–2019,0,6.6,21105,28.541,High,95.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm1047190,The Phantom,movie,2021,2020s,2020s,1,6.5,759,18.725,Low,81.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm426983,Joy,movie,2018,2010s,2015–2019,1,6.6,1304,20.563,Medium,99.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts76771,Stretch Armstrong & the Flex Fighters,tv_show,2017,2010s,2015–2019,0,6.1,318,15.273,Low,23.0,Short (<1h),Unknown,Unknown,TV-G,,,Netflix,kaggle
+KGL_ts76509,Beyond Stranger Things,tv_show,2017,2010s,2015–2019,0,7.4,1883,24.236,Medium,21.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm1001108,Biggie: I Got a Story to Tell,movie,2021,2020s,2020s,1,6.8,5028,25.17,Medium,97.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm423666,The Wandering Earth,movie,2019,2010s,2015–2019,1,5.9,30297,26.44,High,126.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm366889,Vice,movie,2018,2010s,2015–2019,1,7.2,139439,37.04,High,132.0,Epic (2h+),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts54117,Luna Petunia,tv_show,2016,2010s,2015–2019,0,6.3,57,11.11,Low,24.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_tm1011188,Meskina,movie,2021,2020s,2020s,1,5.6,913,16.581,Low,98.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm78592,Michael Clayton,movie,2007,2000s,2000s,0,7.2,165109,37.568,High,114.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm82718,G.O.R.A.,movie,2004,2000s,2000s,0,8.0,62386,38.361,High,127.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm90864,Due Date,movie,2010,2010s,2010–2014,0,6.5,341390,35.966,High,95.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts271413,Night Stalker: The Hunt for a Serial Killer,tv_show,2021,2020s,2020s,1,7.5,24892,32.971,High,47.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm70528,Material,movie,2012,2010s,2010–2014,0,7.1,967,21.2,Medium,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts84280,Rascal Does Not Dream of Bunny Girl Senpai,tv_show,2018,2010s,2015–2019,1,8.1,11117,32.773,High,25.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm469399,Music Teacher,movie,2018,2010s,2015–2019,1,6.2,693,17.616,Low,101.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts99814,Masameer,tv_show,2011,2010s,2010–2014,0,8.2,687,23.268,Low,14.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm927480,Kiss the Ground,movie,2020,2020s,2020s,1,8.2,6736,31.393,High,84.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts56033,Surviving Escobar - Alias JJ,tv_show,2017,2010s,2015–2019,0,7.7,995,23.087,Medium,42.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm502532,Fantastic Fungi,movie,2019,2010s,2015–2019,1,7.4,8430,29.052,High,81.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts250997,Down to Earth with Zac Efron,tv_show,2020,2020s,2020s,1,8.0,6586,30.55,High,39.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_ts80030,Fastest Car,tv_show,2018,2010s,2015–2019,1,7.1,1330,22.182,Medium,44.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts77563,Mystery Science Theater 3000,tv_show,2017,2010s,2015–2019,0,8.1,3656,28.861,Medium,86.0,Standard (1–1.5h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm441060,ReMastered: Tricky Dick & The Man in Black,movie,2018,2010s,2015–2019,1,7.1,1519,22.591,Medium,58.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm828318,Axone,movie,2019,2010s,2015–2019,1,6.9,2213,23.082,Medium,96.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts82979,Talking Tom and Friends,tv_show,2014,2010s,2010–2014,0,6.1,411,15.951,Low,14.0,Short (<1h),Unknown,Unknown,TV-G,,,Netflix,kaggle
+KGL_tm294581,The Clapper,movie,2018,2010s,2015–2019,1,5.1,7688,19.818,High,89.0,Standard (1–1.5h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts38734,Marcella,tv_show,2016,2010s,2015–2019,0,7.4,30969,33.233,High,45.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm893680,Jo Koy: In His Elements,movie,2020,2020s,2020s,1,5.4,469,14.429,Low,55.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts42156,Degrassi: Next Class,tv_show,2016,2010s,2015–2019,0,6.8,3285,23.913,Medium,24.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm316923,Kartini: Princess of Java,movie,2017,2010s,2015–2019,0,7.6,511,20.59,Low,118.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm434625,Wish Dragon,movie,2021,2020s,2020s,1,7.2,25743,31.757,High,99.0,Long (1.5–2h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_tm824560,The Lost Okoroshi,movie,2020,2020s,2020s,1,5.8,175,13.024,Low,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts191285,The Prince of Tennis,tv_show,2019,2010s,2015–2019,1,7.6,216,17.757,Low,45.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm21155,Falafel,movie,2006,2000s,2000s,0,6.7,217,15.668,Low,80.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts272422,Buried by the Bernards,tv_show,2021,2020s,2020s,1,7.2,350,18.326,Low,25.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm323195,Sarah Silverman: A Speck of Dust,movie,2017,2010s,2015–2019,0,6.9,3744,24.657,Medium,71.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm454464,Pegasus,movie,2019,2010s,2015–2019,1,6.3,1813,20.529,Medium,98.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts218500,Dragons: Rescue Riders,tv_show,2019,2010s,2015–2019,1,5.9,314,14.74,Low,24.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_tm96595,Lakshya,movie,2004,2000s,2000s,0,7.8,23262,34.06,High,186.0,Epic (2h+),Unknown,Unknown,G,,,Netflix,kaggle
+KGL_ts305890,Too Hot to Handle: Latino,tv_show,2021,2020s,2020s,1,5.4,284,13.256,Low,36.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm351720,The Most Assassinated Woman in the World,movie,2018,2010s,2015–2019,1,5.3,1092,16.105,Medium,102.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts83814,Undercover Law,tv_show,2018,2010s,2015–2019,1,7.2,215,16.808,Low,54.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts283080,Who Killed Sara?,tv_show,2021,2020s,2020s,1,6.4,13960,26.527,High,41.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts302312,Jaguar,tv_show,2021,2020s,2020s,1,5.7,1766,18.509,Medium,45.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts57913,Strongest Deliveryman,tv_show,2017,2010s,2015–2019,0,7.3,660,20.587,Low,55.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts53399,Eternal Love,tv_show,2017,2010s,2015–2019,0,8.3,2339,27.964,Medium,45.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm25947,Snatch,movie,2000,2000s,2000s,0,8.3,841435,49.178,High,103.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm359714,Christmas Inheritance,movie,2017,2010s,2015–2019,0,5.7,11720,23.193,High,105.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm90896,The Return of the Prodigal Son,movie,1976,1970s,Pre-1990,0,7.2,780,20.827,Low,124.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts37539,One-Punch Man,tv_show,2015,2010s,2015–2019,0,8.7,152231,45.088,High,22.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm1046264,The Vault,movie,2021,2020s,2020s,1,6.4,21511,27.729,High,118.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm353791,Seven Sundays,movie,2017,2010s,2015–2019,0,7.6,467,20.294,Low,128.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm51493,Vizontele,movie,2001,2000s,2000s,0,8.0,36540,36.502,High,110.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm440996,Trevor Noah: Son of Patricia,movie,2018,2010s,2015–2019,1,7.3,4101,26.375,Medium,63.0,Standard (1–1.5h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts86978,Power Rangers Beast Morphers,tv_show,2019,2010s,2015–2019,1,6.5,602,18.072,Low,22.0,Short (<1h),Unknown,Unknown,TV-Y7,,,Netflix,kaggle
+KGL_ts343427,Samurai Rabbit: The Usagi Chronicles,tv_show,2022,2020s,2020s,1,6.5,407,16.969,Low,25.0,Short (<1h),Unknown,Unknown,TV-Y7,,,Netflix,kaggle
+KGL_ts55982,Anne with an E,tv_show,2017,2010s,2015–2019,0,8.7,52756,41.084,High,46.0,Short (<1h),Unknown,Unknown,TV-G,,,Netflix,kaggle
+KGL_ts213611,Bangkok Love Stories: Plead,tv_show,2019,2010s,2015–2019,1,7.2,58,12.75,Low,42.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm29737,Rambo,movie,2008,2000s,2000s,0,7.0,230333,37.537,High,92.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm89936,Arahan,movie,2004,2000s,2000s,0,6.6,3841,23.658,Medium,114.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm39896,Dark Shadows,movie,2012,2010s,2010–2014,0,6.2,265626,33.63,High,113.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts299874,Cocaine Cowboys: The Kings of Miami,tv_show,2021,2020s,2020s,1,7.1,2699,24.363,Medium,57.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm372066,Fast Color,movie,2019,2010s,2015–2019,1,6.0,6276,22.787,Medium,102.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm348386,Resurface,movie,2017,2010s,2015–2019,0,7.1,286,17.451,Low,27.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts42062,Miraculous: Tales of Ladybug & Cat Noir,tv_show,2015,2010s,2015–2019,0,7.7,10102,30.834,High,21.0,Short (<1h),Unknown,Unknown,TV-Y7,,,Netflix,kaggle
+KGL_ts37804,W/ Bob & David,tv_show,2015,2010s,2015–2019,0,7.4,4160,26.782,Medium,35.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm205812,The Siege of Jadotville,movie,2016,2010s,2015–2019,0,7.2,39404,33.088,High,108.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm889018,Nobody Knows I'm Here,movie,2020,2020s,2020s,1,6.5,4148,23.517,Medium,91.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm322210,Bomb Scared,movie,2017,2010s,2015–2019,0,5.6,2871,19.366,Medium,89.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts95011,Move,tv_show,2018,2010s,2015–2019,1,7.4,116,15.305,Low,48.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm157853,In Defense of a Married Man,movie,1990,1990s,1990s,0,5.6,207,12.981,Low,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm1046026,The Trip,movie,2021,2020s,2020s,1,6.9,20921,29.812,High,114.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm368449,Private Life,movie,2018,2010s,2015–2019,1,7.2,19023,30.811,High,123.0,Epic (2h+),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm271333,The Third Party,movie,2016,2010s,2015–2019,0,6.1,275,14.89,Low,118.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm236705,Ricardo O'Farrill: Abrazo Genial,movie,2016,2010s,2015–2019,0,5.5,117,11.395,Low,92.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm923612,Any Crybabies Around?,movie,2020,2020s,2020s,1,6.0,168,13.367,Low,106.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts35570,Lovesick,tv_show,2014,2010s,2010–2014,0,8.0,19899,34.391,High,25.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm180599,The Haunting in Connecticut 2: Ghosts of Georgia,movie,2013,2010s,2010–2014,0,5.2,17264,22.033,High,101.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm1003353,Operation Varsity Blues: The College Admissions Scandal,movie,2021,2020s,2020s,1,6.9,8190,27.002,High,100.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm68191,My Führer,movie,2007,2000s,2000s,0,5.5,4442,20.062,Medium,89.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts308838,Bad Sport,tv_show,2021,2020s,2020s,1,7.3,2151,24.33,Medium,68.0,Standard (1–1.5h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts320075,Aranyak,tv_show,2021,2020s,2020s,1,7.9,7629,30.672,High,43.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts41995,Zumbo's Just Desserts,tv_show,2016,2010s,2015–2019,0,6.9,2177,23.033,Medium,50.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts25252,Yu-Gi-Oh!,tv_show,1998,1990s,1990s,0,7.3,21113,31.569,High,22.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_tm413049,Animal World,movie,2018,2010s,2015–2019,1,6.4,4447,23.348,Medium,125.0,Epic (2h+),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm678035,Uncle Naji in UAE,movie,2019,2010s,2015–2019,1,5.0,60,8.927,Low,95.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts317297,The Orbital Children,tv_show,2022,2020s,2020s,1,6.4,564,17.613,Low,32.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts80720,Scissor Seven,tv_show,2018,2010s,2015–2019,1,8.6,311,21.45,Low,16.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm59880,Mike Birbiglia: What I Should Have Said Was Nothing,movie,2008,2000s,2000s,0,7.6,1794,24.731,Medium,60.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm244207,Triple Frontier,movie,2019,2010s,2015–2019,1,6.4,125883,32.64,High,125.0,Epic (2h+),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts105608,Puerta 7,tv_show,2020,2020s,2020s,1,5.6,560,15.394,Low,41.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm137869,Wild Card,movie,2015,2010s,2015–2019,0,5.6,55605,26.573,High,92.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm245102,The Next Skin,movie,2016,2010s,2015–2019,0,6.2,1820,20.214,Medium,100.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm827648,El Camino: A Breaking Bad Movie,movie,2019,2010s,2015–2019,1,7.3,216847,38.954,High,123.0,Epic (2h+),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm834608,Alelí,movie,2019,2010s,2015–2019,1,6.3,377,16.238,Low,88.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm233121,Dedemin Fişi,movie,2016,2010s,2015–2019,0,5.5,3524,19.509,Medium,100.0,Long (1.5–2h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_tm828326,The Crystal Calls - Making The Dark Crystal: Age of Resistance,movie,2019,2010s,2015–2019,1,7.6,534,20.735,Low,83.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm27601,Phir Bhi Dil Hai Hindustani,movie,2000,2000s,2000s,0,6.1,7610,23.677,High,160.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm448792,In the Shadow of the Moon,movie,2019,2010s,2015–2019,1,6.2,52206,29.25,High,115.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm884369,"Best Wishes, Warmest Regards: A Schitt's Creek Farewell",movie,2020,2020s,2020s,1,8.6,1445,27.177,Medium,44.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm456436,Bad Trip,movie,2020,2020s,2020s,1,6.5,24537,28.534,High,87.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts271720,Pui Pui Molcar,tv_show,2021,2020s,2020s,1,8.1,366,20.774,Low,2.0,Short (<1h),Unknown,Unknown,TV-Y7,,,Netflix,kaggle
+KGL_ts304690,Remember You,tv_show,2021,2020s,2020s,1,7.5,78,14.232,Low,67.0,Standard (1–1.5h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm372891,Chris Rock: Tamborine,movie,2018,2010s,2015–2019,1,6.6,6982,25.371,High,64.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts313781,The Club,tv_show,2021,2020s,2020s,1,7.9,7810,30.752,High,47.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm313988,The Death and Life of Marsha P. Johnson,movie,2017,2010s,2015–2019,0,7.2,2964,24.999,Medium,105.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts5145,The Challenge,tv_show,1998,1990s,1990s,0,7.8,3362,27.508,Medium,40.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts257315,Karma's World,tv_show,2021,2020s,2020s,1,5.8,156,12.736,Low,12.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_tm178106,Chillar Party,movie,2011,2010s,2010–2014,0,7.5,7831,29.204,High,130.0,Epic (2h+),Unknown,Unknown,G,,,Netflix,kaggle
+KGL_ts55978,Samurai Gourmet,tv_show,2017,2010s,2015–2019,0,8.1,2099,26.91,Medium,21.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm928497,Valley of the Dead,movie,2022,2020s,2020s,1,6.5,114,13.395,Low,101.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm193211,Mucize,movie,2015,2010s,2015–2019,0,7.6,12593,31.161,High,136.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm136483,The DUFF,movie,2015,2010s,2015–2019,0,6.4,93675,31.818,High,101.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm836501,Super Monsters: Vida's First Halloween,movie,2019,2010s,2015–2019,1,5.9,37,9.321,Low,24.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts272092,Canine Intervention,tv_show,2021,2020s,2020s,1,6.5,892,19.181,Low,36.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm1180610,The Wrath of God,movie,2022,2020s,2020s,1,5.7,2800,19.65,Medium,97.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm184732,Dhobi Ghat,movie,2010,2010s,2010–2014,0,7.0,13167,28.837,High,102.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm873354,Si Doel the Movie 3,movie,2020,2020s,2020s,1,6.5,132,13.805,Low,93.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm427308,Falls Around Her,movie,2018,2010s,2015–2019,1,6.3,127,13.275,Low,100.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts58528,Inside West Coast Customs,tv_show,2011,2010s,2010–2014,0,7.3,44,12.068,Low,43.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_ts287703,Mine,tv_show,2021,2020s,2020s,1,7.7,1169,23.625,Medium,70.0,Standard (1–1.5h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm472231,Si Doel the Movie 2,movie,2019,2010s,2015–2019,1,6.8,183,15.401,Low,95.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts249161,Tariqi: My Way,tv_show,2015,2010s,2015–2019,0,7.1,148,15.43,Low,41.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm283322,Burning Sands,movie,2017,2010s,2015–2019,0,6.0,2854,20.734,Medium,105.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts77824,My Next Guest Needs No Introduction With David Letterman,tv_show,2018,2010s,2015–2019,1,7.8,5581,29.225,Medium,50.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm416458,The Insomnia Club,movie,2018,2010s,2015–2019,1,6.2,501,16.744,Low,84.0,Standard (1–1.5h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts83502,Ad Vitam,tv_show,2018,2010s,2015–2019,1,6.4,1671,20.629,Medium,52.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts17598,Arrow,tv_show,2012,2010s,2010–2014,0,7.5,427871,42.235,High,42.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm1097142,My Bride,movie,2021,2020s,2020s,1,5.0,327,12.579,Low,93.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm996010,Still Out of My League,movie,2021,2020s,2020s,1,5.5,810,16.0,Low,113.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm226362,Bosta,movie,2005,2000s,2000s,0,6.4,605,17.808,Low,112.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm145608,Awakenings,movie,1990,1990s,1990s,0,7.8,139240,40.121,High,120.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm464542,Tottaa Pataaka Item Maal,movie,2018,2010s,2015–2019,1,7.6,7911,29.627,High,107.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm198496,Aziz Ansari: Live at Madison Square Garden,movie,2015,2010s,2015–2019,0,6.6,3266,23.193,Medium,58.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm71558,The Legend of the Nahuala,movie,2007,2000s,2000s,0,6.1,511,16.527,Low,80.0,Standard (1–1.5h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_ts137477,Behind Enemy Lines,tv_show,2001,2000s,2000s,0,7.2,43,11.833,Low,49.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts88485,Green Eggs and Ham,tv_show,2019,2010s,2015–2019,1,8.1,2631,27.704,Medium,28.0,Short (<1h),Unknown,Unknown,TV-Y7,,,Netflix,kaggle
+KGL_tm260272,Little Evil,movie,2017,2010s,2015–2019,0,5.6,21421,24.253,High,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm811971,Oprah Winfrey Presents: When They See Us Now,movie,2019,2010s,2015–2019,1,7.7,2350,25.959,Medium,61.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts53663,Workin' Moms,tv_show,2017,2010s,2015–2019,0,7.7,16488,32.472,High,23.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm479734,Table Manners,movie,2018,2010s,2015–2019,1,5.1,43,8.382,Low,105.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts52988,Captive,tv_show,2016,2010s,2015–2019,0,6.8,742,19.523,Low,63.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts76511,The Big Family Cooking Showdown,tv_show,2017,2010s,2015–2019,0,7.0,682,19.841,Low,59.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_ts225718,La Révolution,tv_show,2020,2020s,2020s,1,6.6,5598,24.738,Medium,46.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts287838,Mad for Each Other,tv_show,2021,2020s,2020s,1,7.9,1724,25.571,Medium,35.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm1084481,Blood Brothers: Malcolm X & Muhammad Ali,movie,2021,2020s,2020s,1,6.9,946,20.537,Medium,95.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts86164,Hero Mask,tv_show,2018,2010s,2015–2019,1,6.1,675,17.263,Low,25.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm213681,Veteran,movie,2015,2010s,2015–2019,0,7.0,6611,26.742,High,119.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm289181,Newness,movie,2017,2010s,2015–2019,0,6.3,16654,26.596,High,112.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm812781,Katherine Ryan: Glitter Room,movie,2019,2010s,2015–2019,1,6.7,1956,22.054,Medium,65.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts90869,Love Daily,tv_show,2018,2010s,2015–2019,1,6.1,157,13.412,Low,18.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm501222,Twin Murders: The Silence of the White City,movie,2019,2010s,2015–2019,1,5.3,5307,19.742,Medium,110.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm371380,The Package,movie,2018,2010s,2015–2019,1,5.5,17858,23.385,High,94.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts20960,Power Rangers,tv_show,1993,1990s,1990s,0,6.5,22110,28.24,High,22.0,Short (<1h),Unknown,Unknown,TV-Y7,,,Netflix,kaggle
+KGL_tm466544,Sooryavanshi,movie,2021,2020s,2020s,1,6.3,75952,30.747,High,145.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm174683,Arthur Christmas,movie,2011,2010s,2010–2014,0,7.1,58635,33.854,High,97.0,Long (1.5–2h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_ts41906,The Disastrous Life of Saiki K.,tv_show,2016,2010s,2015–2019,0,8.4,7086,32.344,High,10.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm985712,"Strip Down, Rise Up",movie,2021,2020s,2020s,1,5.2,656,14.651,Low,112.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm140391,Pan,movie,2015,2010s,2015–2019,0,5.7,63788,27.387,High,111.0,Long (1.5–2h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_tm349803,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",movie,2017,2010s,2015–2019,0,7.6,25948,33.547,High,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm245378,Barry,movie,2016,2010s,2015–2019,0,5.9,7212,22.763,High,104.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts90511,Crime Diaries: Night Out,tv_show,2019,2010s,2015–2019,1,7.3,865,21.444,Low,44.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm1063013,The Father Who Moves Mountains,movie,2021,2020s,2020s,1,5.5,3472,19.474,Medium,108.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm101609,Raajneeti,movie,2010,2010s,2010–2014,0,7.1,17697,30.16,High,167.0,Epic (2h+),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_tm943808,Guillermo Vilas: Settling the Score,movie,2020,2020s,2020s,1,7.1,655,20.0,Low,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm840936,Zoé: Panoramas,movie,2017,2010s,2015–2019,0,6.8,78,12.904,Low,89.0,Standard (1–1.5h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_tm1073555,Thimmarusu: Assignment Vali,movie,2021,2020s,2020s,1,7.2,1544,22.96,Medium,127.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm29555,Friends with Money,movie,2006,2000s,2000s,0,5.8,30468,26.006,High,88.0,Standard (1–1.5h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm467467,Homecoming: A Film by Beyoncé,movie,2019,2010s,2015–2019,1,7.5,7085,28.878,High,137.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts255880,Dream Home Makeover,tv_show,2020,2020s,2020s,1,5.6,1101,17.036,Medium,27.0,Short (<1h),Unknown,Unknown,TV-G,,,Netflix,kaggle
+KGL_ts237972,Katla,tv_show,2021,2020s,2020s,1,7.0,13472,28.906,High,46.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm324806,Counterpunch,movie,2017,2010s,2015–2019,0,6.7,918,19.854,Low,91.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts296091,Elite Short Stories: Nadia Guzmán,tv_show,2021,2020s,2020s,1,6.2,1907,20.34,Medium,11.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm454824,Silver Skates,movie,2020,2020s,2020s,1,7.1,5946,26.798,Medium,136.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts57120,Good Girls,tv_show,2018,2010s,2015–2019,1,7.7,50919,36.243,High,42.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts100116,Blown Away,tv_show,2019,2010s,2015–2019,1,7.1,3034,24.723,Medium,26.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm1040832,Mommy Issues,movie,2021,2020s,2020s,1,5.4,39,8.651,Low,89.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm475339,Beats,movie,2019,2010s,2015–2019,1,6.3,5219,23.421,Medium,109.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm983787,Ava,movie,2020,2020s,2020s,1,5.4,54279,25.567,High,96.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts74753,Tales by Light,tv_show,2015,2010s,2015–2019,0,8.3,1916,27.246,Medium,28.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm144121,Get on Up,movie,2014,2010s,2010–2014,0,6.9,24613,30.299,High,139.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts41289,Flowers,tv_show,2016,2010s,2015–2019,0,8.1,5650,30.392,Medium,25.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm172683,War of the Worlds,movie,2005,2000s,2000s,0,6.5,444229,36.709,High,117.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts21374,How to Get Away with Murder,tv_show,2014,2010s,2010–2014,0,8.1,148643,41.894,High,43.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm57190,The One,movie,2001,2000s,2000s,0,5.9,92007,29.287,High,87.0,Standard (1–1.5h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts83999,Hilda,tv_show,2018,2010s,2015–2019,1,8.5,10283,34.103,High,25.0,Short (<1h),Unknown,Unknown,TV-Y7,,,Netflix,kaggle
+KGL_tm60292,Argo,movie,2012,2010s,2010–2014,0,7.7,600392,44.494,High,120.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts297483,Hometown Cha-Cha-Cha,tv_show,2021,2020s,2020s,1,8.4,11060,33.968,High,78.0,Standard (1–1.5h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts35563,Supergirl,tv_show,2015,2010s,2015–2019,0,6.2,122911,31.555,High,42.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts241246,The Smart Money Woman,tv_show,2020,2020s,2020s,1,6.2,112,12.729,Low,48.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts320183,Single’s Inferno,tv_show,2021,2020s,2020s,1,7.1,1608,22.767,Medium,61.0,Standard (1–1.5h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_ts22286,Cardcaptor Sakura,tv_show,1998,1990s,1990s,0,8.0,5008,29.598,Medium,25.0,Short (<1h),Unknown,Unknown,TV-Y7,,,Netflix,kaggle
+KGL_tm1084966,Django & Django,movie,2021,2020s,2020s,1,6.9,1006,20.721,Medium,80.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm846964,A Fall from Grace,movie,2020,2020s,2020s,1,5.8,15341,24.278,High,120.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm414340,Spivak,movie,2018,2010s,2015–2019,1,5.6,754,16.117,Low,91.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm451078,Pokemon the Movie: Mewtwo Strikes Back - Evolution,movie,2019,2010s,2015–2019,1,5.7,5475,21.309,Medium,98.0,Long (1.5–2h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_tm912415,Urzila Carlson: Overqualified Loser,movie,2020,2020s,2020s,1,6.3,366,16.157,Low,62.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts280892,"Devotion, a Story of Love and Desire",tv_show,2022,2020s,2020s,1,6.4,1500,20.329,Medium,40.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts79026,The Innocents,tv_show,2018,2010s,2015–2019,1,6.2,5804,23.336,Medium,46.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm358653,Ujala,movie,1959,1950s,Pre-1990,0,6.6,78,12.524,Low,142.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm1037800,Soy Rada: Serendipity,movie,2021,2020s,2020s,1,6.2,78,11.765,Low,70.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm423761,Iliza Shlesinger: Elder Millennial,movie,2018,2010s,2015–2019,1,7.2,4059,25.981,Medium,72.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm857430,The Occupant,movie,2020,2020s,2020s,1,6.4,17289,27.122,High,103.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm374454,Indian Horse,movie,2018,2010s,2015–2019,1,7.2,2171,24.025,Medium,96.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts22249,Kuroko's Basketball,tv_show,2012,2010s,2010–2014,0,8.3,8420,32.581,High,24.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm1165179,Kongsi Raya,movie,2022,2020s,2020s,1,7.0,66,12.783,Low,102.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm101684,Romantik Komedi,movie,2010,2010s,2010–2014,0,5.3,5111,19.656,Medium,95.0,Long (1.5–2h),Unknown,Unknown,G,,,Netflix,kaggle
+KGL_ts84586,Spinning Out,tv_show,2020,2020s,2020s,1,7.6,14066,31.526,High,49.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm219699,Phantom,movie,2015,2010s,2015–2019,0,5.9,9281,23.409,High,136.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm375007,Feminists: What Were They Thinking?,movie,2018,2010s,2015–2019,1,6.9,2233,23.109,Medium,86.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm232947,Brahman Naman,movie,2016,2010s,2015–2019,0,5.5,1901,18.036,Medium,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts222687,No hay tiempo para la vergüenza,tv_show,2019,2010s,2015–2019,1,5.8,82,11.131,Low,43.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts349845,Mr. Good: Cop or Crook?,tv_show,2022,2020s,2020s,1,6.9,369,17.721,Low,51.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm458418,Tune in for Love,movie,2019,2010s,2015–2019,1,7.1,4102,25.653,Medium,122.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts225061,Pieces of Her,tv_show,2022,2020s,2020s,1,6.3,22435,27.411,High,51.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm990972,The Last Paradiso,movie,2021,2020s,2020s,1,5.6,1350,17.532,Medium,107.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm1180524,Av: The Hunt,movie,2021,2020s,2020s,1,5.5,344,13.958,Low,86.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts78382,On My Block,tv_show,2018,2010s,2015–2019,1,7.9,16106,33.235,High,29.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts271726,Go Dog Go,tv_show,2021,2020s,2020s,1,7.0,191,15.983,Low,24.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_tm945448,Vicky and Her Mystery,movie,2021,2020s,2020s,1,6.4,1900,20.985,Medium,84.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm893799,Lost Bullet,movie,2020,2020s,2020s,1,6.3,9479,25.054,High,92.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts81944,The Comedy Lineup,tv_show,2018,2010s,2015–2019,1,5.9,461,15.721,Low,15.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm998238,The Humans & the Mongoose,movie,2021,2020s,2020s,1,5.4,995,16.191,Medium,120.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts223450,Move to Heaven,tv_show,2021,2020s,2020s,1,8.6,5634,32.258,Medium,52.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts307816,냉면 랩소디,tv_show,2021,2020s,2020s,1,7.5,25,10.612,Low,49.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_ts82825,La Casa,tv_show,2015,2010s,2015–2019,0,7.7,23,10.628,Low,47.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm1120937,Montford: The Chickasaw Rancher,movie,2021,2020s,2020s,1,6.6,719,18.858,Low,96.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm472195,Almost Love,movie,2019,2010s,2015–2019,1,5.7,1133,17.411,Medium,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm145655,St. Vincent,movie,2014,2010s,2010–2014,0,7.2,102820,36.087,High,102.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts278,Black Mirror,tv_show,2011,2010s,2010–2014,0,8.8,526383,50.347,High,59.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm878995,Dragons: Rescue Riders: Hunt for the Golden Dragon,movie,2020,2020s,2020s,1,5.1,155,11.185,Low,46.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm20959,The Pursuit of Happyness,movie,2006,2000s,2000s,0,8.0,501457,45.602,High,117.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts90621,Kota Factory,tv_show,2019,2010s,2015–2019,1,9.1,69316,44.052,High,39.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm1029314,Have You Ever Seen Fireflies?,movie,2021,2020s,2020s,1,6.1,5024,22.577,Medium,113.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts331680,Making Fun,tv_show,2022,2020s,2020s,1,7.1,602,19.74,Low,41.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm405738,Perdida,movie,2018,2010s,2015–2019,1,5.6,4762,20.596,Medium,103.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_tm159912,Agneepath,movie,1990,1990s,1990s,0,7.6,8947,30.033,High,174.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm133374,The Blind Side,movie,2009,2000s,2000s,0,7.6,327675,41.917,High,129.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm815438,Sab el-Burumbah,movie,2019,2010s,2015–2019,1,5.6,506,15.148,Low,95.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm66725,Kalakalappu,movie,2012,2010s,2010–2014,0,6.9,1398,21.706,Medium,149.0,Epic (2h+),Unknown,Unknown,G,,,Netflix,kaggle
+KGL_tm244175,The Zookeeper's Wife,movie,2017,2010s,2015–2019,0,7.0,43091,32.441,High,126.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm322200,Superlopez,movie,2018,2010s,2015–2019,1,5.4,3635,19.227,Medium,108.0,Long (1.5–2h),Unknown,Unknown,G,,,Netflix,kaggle
+KGL_tm157609,Born in Gaza,movie,2014,2010s,2010–2014,0,7.4,511,20.049,Low,69.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts53106,Tokyo Trial,tv_show,2016,2010s,2015–2019,0,7.4,1544,23.598,Medium,48.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm441232,Someone Great,movie,2019,2010s,2015–2019,1,6.1,22277,26.522,High,92.0,Long (1.5–2h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts56261,Castlevania,tv_show,2017,2010s,2015–2019,0,8.3,62722,39.819,High,26.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm134407,Dev.D,movie,2009,2000s,2000s,0,7.9,30567,35.434,High,141.0,Epic (2h+),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts20837,Outlander,tv_show,2014,2010s,2010–2014,0,8.4,156114,43.625,High,60.0,Standard (1–1.5h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm423624,Ek Ladki Ko Dekha Toh Aisa Laga,movie,2019,2010s,2015–2019,1,5.6,4378,20.392,Medium,121.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm446654,Mujrim,movie,1989,1980s,Pre-1990,0,5.4,197,12.402,Low,162.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts20351,Married at First Sight,tv_show,2014,2010s,2010–2014,0,6.1,2021,20.165,Medium,64.0,Standard (1–1.5h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm350945,Posesif,movie,2017,2010s,2015–2019,0,7.4,920,21.936,Low,102.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm470378,ReMastered: Devil at the Crossroads,movie,2019,2010s,2015–2019,1,7.0,2748,24.074,Medium,48.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm134967,How to Train Your Dragon 2,movie,2014,2010s,2010–2014,0,7.8,330975,43.054,High,102.0,Long (1.5–2h),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_tm358666,The Awakening of Motti Wolkenbruch,movie,2018,2010s,2015–2019,1,6.6,4330,24.001,Medium,94.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm677746,Bombay Rose,movie,2019,2010s,2015–2019,1,6.2,608,17.265,Low,97.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts38796,Stranger Things,tv_show,2016,2010s,2015–2019,0,8.7,1101055,52.564,High,61.0,Standard (1–1.5h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts21876,My Sunshine,tv_show,2015,2010s,2015–2019,0,6.5,195,14.9,Low,45.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm169669,Four Sisters and a Wedding,movie,2013,2010s,2010–2014,0,7.2,816,20.968,Low,126.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts293103,Juanpis González - The Series,tv_show,2022,2020s,2020s,1,6.8,348,17.291,Low,25.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm20712,Eddie Murphy Raw,movie,1987,1980s,Pre-1990,0,7.6,19757,32.648,High,90.0,Standard (1–1.5h),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts89840,Virgin River,tv_show,2019,2010s,2015–2019,1,7.4,36459,33.757,High,44.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm96052,Palermo Hollywood,movie,2004,2000s,2000s,0,5.3,203,12.241,Low,113.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts83251,Magic for Humans,tv_show,2018,2010s,2015–2019,1,7.1,3346,25.025,Medium,23.0,Short (<1h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_tm271951,Apostle,movie,2018,2010s,2015–2019,1,6.3,51890,29.705,High,130.0,Epic (2h+),Unknown,Unknown,R,,,Netflix,kaggle
+KGL_ts76159,Super Monsters,tv_show,2017,2010s,2015–2019,0,6.2,417,16.251,Low,13.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_tm683841,"Hello, Love, Goodbye",movie,2019,2010s,2015–2019,1,7.3,1050,22.058,Medium,118.0,Long (1.5–2h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm183805,Ghanchakkar,movie,2013,2010s,2010–2014,0,5.8,5052,21.481,Medium,137.0,Epic (2h+),Unknown,Unknown,PG,,,Netflix,kaggle
+KGL_tm973704,Andhaghaaram,movie,2020,2020s,2020s,1,7.6,3746,27.16,Medium,171.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts288195,Invisible City,tv_show,2021,2020s,2020s,1,7.7,18,9.846,Low,37.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts55365,The Haunted House,tv_show,2016,2010s,2015–2019,0,8.3,83,15.972,Low,25.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_ts288744,The Sound of Magic,tv_show,2022,2020s,2020s,1,7.7,2783,26.524,Medium,69.0,Standard (1–1.5h),Unknown,Unknown,TV-14,,,Netflix,kaggle
+KGL_ts39112,Justin Time,tv_show,2011,2010s,2010–2014,0,6.0,16,7.383,Low,15.0,Short (<1h),Unknown,Unknown,TV-Y,,,Netflix,kaggle
+KGL_tm848443,World Famous Lover,movie,2020,2020s,2020s,1,5.0,3206,17.53,Medium,156.0,Epic (2h+),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_ts246073,Tribes of Europa,tv_show,2021,2020s,2020s,1,6.7,12043,27.341,High,47.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_tm1201262,Love & Gelato,movie,2022,2020s,2020s,1,5.1,3980,18.36,Medium,111.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_tm1180123,The House,movie,2022,2020s,2020s,1,6.9,9535,27.458,High,31.0,Short (<1h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm442805,My Travel Buddy 2,movie,2018,2010s,2015–2019,1,5.8,3256,20.374,Medium,111.0,Long (1.5–2h),Unknown,Unknown,PG-13,,,Netflix,kaggle
+KGL_ts20823,Orange Is the New Black,tv_show,2013,2010s,2010–2014,0,8.1,298009,44.341,High,59.0,Short (<1h),Unknown,Unknown,TV-MA,,,Netflix,kaggle
+KGL_ts236769,"Coronavirus, Explained",tv_show,2020,2020s,2020s,1,7.6,2254,25.484,Medium,23.0,Short (<1h),Unknown,Unknown,TV-PG,,,Netflix,kaggle
+KGL_tm844978,Guatemala: Heart of the Mayan World,movie,2019,2010s,2015–2019,1,6.6,224,15.524,Low,66.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm307551,Katherine Ryan: In Trouble,movie,2017,2010s,2015–2019,0,7.0,2195,23.391,Medium,63.0,Standard (1–1.5h),Unknown,Unknown,nan,,,Netflix,kaggle
+KGL_tm167944,Berserk: The Golden Age Arc III - The Advent,movie,2013,2010s,2010–2014,0,7.8,10173,31.258,High,110.0,Long (1.5–2h),Unknown,Unknown,NC-17,,,Netflix,kaggle
